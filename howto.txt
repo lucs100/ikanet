@@ -1,0 +1,7 @@
+actual strings are in splat3/data/language/USen.json
+
+json with ids and how to get is in splat3/data/mush/111/BynameAdjectiveInfo.json (for example)
+
+will probably have to make some stupid python script to shove these together into a json the way i want
+
+then images are in splat3/images

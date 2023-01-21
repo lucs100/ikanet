@@ -1,0 +1,3404 @@
+{
+    "0000": {
+        "HowToGet": "Shop",
+        "Id": "0000",
+        "Season": 0,
+        "String": "Sploosh-o-matic User"
+    },
+    "0559": {
+        "HowToGet": "Catalog",
+        "Id": "0559",
+        "Season": 1,
+        "String": "Challenger"
+    },
+    "0561": {
+        "HowToGet": "Shop",
+        "Id": "0561",
+        "Season": 1,
+        "String": "Butterfingers"
+    },
+    "0562": {
+        "HowToGet": "Shop",
+        "Id": "0562",
+        "Season": 1,
+        "String": "Driver"
+    },
+    "0563": {
+        "HowToGet": "Shop",
+        "Id": "0563",
+        "Season": 1,
+        "String": "Drummer"
+    },
+    "0564": {
+        "HowToGet": "Shop",
+        "Id": "0564",
+        "Season": 1,
+        "String": "Tornado"
+    },
+    "0565": {
+        "HowToGet": "Shop",
+        "Id": "0565",
+        "Season": 1,
+        "String": "Trainer"
+    },
+    "0558": {
+        "HowToGet": "Shop",
+        "Id": "0558",
+        "Season": 1,
+        "String": "Tuna Tataki"
+    },
+    "0566": {
+        "HowToGet": "Shop",
+        "Id": "0566",
+        "Season": 1,
+        "String": "Party Animal"
+    },
+    "0568": {
+        "HowToGet": "Shop",
+        "Id": "0568",
+        "Season": 1,
+        "String": "Rebel"
+    },
+    "0569": {
+        "HowToGet": "Shop",
+        "Id": "0569",
+        "Season": 1,
+        "String": "Workhorse"
+    },
+    "0570": {
+        "HowToGet": "Shop",
+        "Id": "0570",
+        "Season": 1,
+        "String": "Introvert"
+    },
+    "0571": {
+        "HowToGet": "Shop",
+        "Id": "0571",
+        "Season": 1,
+        "String": "Clubgoer"
+    },
+    "0572": {
+        "HowToGet": "Shop",
+        "Id": "0572",
+        "Season": 1,
+        "String": "Stand-Up Comic"
+    },
+    "0573": {
+        "HowToGet": "Shop",
+        "Id": "0573",
+        "Season": 1,
+        "String": "Fighter"
+    },
+    "0567": {
+        "HowToGet": "Shop",
+        "Id": "0567",
+        "Season": 1,
+        "String": "Polyglot"
+    },
+    "0557": {
+        "HowToGet": "Shop",
+        "Id": "0557",
+        "Season": 1,
+        "String": "Octo Life"
+    },
+    "0556": {
+        "HowToGet": "Shop",
+        "Id": "0556",
+        "Season": 1,
+        "String": "Octopus Ink"
+    },
+    "0555": {
+        "HowToGet": "Shop",
+        "Id": "0555",
+        "Season": 1,
+        "String": "Title Holder"
+    },
+    "0539": {
+        "HowToGet": "Shop",
+        "Id": "0539",
+        "Season": 1,
+        "String": "Groove"
+    },
+    "0540": {
+        "HowToGet": "Shop",
+        "Id": "0540",
+        "Season": 1,
+        "String": "Gamer"
+    },
+    "0541": {
+        "HowToGet": "Shop",
+        "Id": "0541",
+        "Season": 1,
+        "String": "Ultimate Weapon"
+    },
+    "0543": {
+        "HowToGet": "Shop",
+        "Id": "0543",
+        "Season": 1,
+        "String": "Survivalist"
+    },
+    "0544": {
+        "HowToGet": "Shop",
+        "Id": "0544",
+        "Season": 1,
+        "String": "Iconoclast"
+    },
+    "0545": {
+        "HowToGet": "Shop",
+        "Id": "0545",
+        "Season": 1,
+        "String": "Supporter"
+    },
+    "0546": {
+        "HowToGet": "Shop",
+        "Id": "0546",
+        "Season": 1,
+        "String": "Shark"
+    },
+    "0547": {
+        "HowToGet": "Shop",
+        "Id": "0547",
+        "Season": 1,
+        "String": "Salmon Life"
+    },
+    "0548": {
+        "HowToGet": "Shop",
+        "Id": "0548",
+        "Season": 1,
+        "String": "Swimmer"
+    },
+    "0549": {
+        "HowToGet": "Shop",
+        "Id": "0549",
+        "Season": 1,
+        "String": "Style"
+    },
+    "0550": {
+        "HowToGet": "Shop",
+        "Id": "0550",
+        "Season": 1,
+        "String": "Striker"
+    },
+    "0551": {
+        "HowToGet": "Shop",
+        "Id": "0551",
+        "Season": 1,
+        "String": "Streamer"
+    },
+    "0552": {
+        "HowToGet": "Shop",
+        "Id": "0552",
+        "Season": 1,
+        "String": "Gelatin"
+    },
+    "0553": {
+        "HowToGet": "Shop",
+        "Id": "0553",
+        "Season": 1,
+        "String": "Celeb"
+    },
+    "0554": {
+        "HowToGet": "Shop",
+        "Id": "0554",
+        "Season": 1,
+        "String": "Taste Tester"
+    },
+    "0574": {
+        "HowToGet": "Shop",
+        "Id": "0574",
+        "Season": 1,
+        "String": "Mirage"
+    },
+    "0538": {
+        "HowToGet": "Shop",
+        "Id": "0538",
+        "Season": 1,
+        "String": "Creator"
+    },
+    "0576": {
+        "HowToGet": "Shop",
+        "Id": "0576",
+        "Season": 1,
+        "String": "Plankton"
+    },
+    "0578": {
+        "HowToGet": "Shop",
+        "Id": "0578",
+        "Season": 1,
+        "String": "Freelancer"
+    },
+    "0601": {
+        "HowToGet": "Catalog",
+        "Id": "0601",
+        "Season": 1,
+        "String": "Rookie"
+    },
+    "0602": {
+        "HowToGet": "Shop",
+        "Id": "0602",
+        "Season": 1,
+        "String": "Robot"
+    },
+    "0603": {
+        "HowToGet": "Shop",
+        "Id": "0603",
+        "Season": 1,
+        "String": "Enthusiast"
+    },
+    "0605": {
+        "HowToGet": "Shop",
+        "Id": "0605",
+        "Season": 1,
+        "String": "Ordinary Person"
+    },
+    "0606": {
+        "HowToGet": "Shop",
+        "Id": "0606",
+        "Season": 1,
+        "String": "Lone Wolf"
+    },
+    "0607": {
+        "HowToGet": "Shop",
+        "Id": "0607",
+        "Season": 1,
+        "String": "Pauper"
+    },
+    "0600": {
+        "HowToGet": "Shop",
+        "Id": "0600",
+        "Season": 1,
+        "String": "Remote Worker"
+    },
+    "0608": {
+        "HowToGet": "Shop",
+        "Id": "0608",
+        "Season": 1,
+        "String": "Prodigy"
+    },
+    "0611": {
+        "HowToGet": "Shop",
+        "Id": "0611",
+        "Season": 1,
+        "String": "Hot-Spring Enjoyer"
+    },
+    "0613": {
+        "HowToGet": "Shop",
+        "Id": "0613",
+        "Season": 1,
+        "String": "Fish Finder"
+    },
+    "0614": {
+        "HowToGet": "Shop",
+        "Id": "0614",
+        "Season": 1,
+        "String": "Saltwater Fish"
+    },
+    "0615": {
+        "HowToGet": "Shop",
+        "Id": "0615",
+        "Season": 1,
+        "String": "Umibozu"
+    },
+    "0616": {
+        "HowToGet": "Shop",
+        "Id": "0616",
+        "Season": 1,
+        "String": "Cold Chill"
+    },
+    "0617": {
+        "HowToGet": "Shop",
+        "Id": "0617",
+        "Season": 1,
+        "String": "Sightseer"
+    },
+    "0610": {
+        "HowToGet": "Shop",
+        "Id": "0610",
+        "Season": 1,
+        "String": "Monarch"
+    },
+    "0599": {
+        "HowToGet": "Shop",
+        "Id": "0599",
+        "Season": 1,
+        "String": "Rapper"
+    },
+    "0598": {
+        "HowToGet": "Shop",
+        "Id": "0598",
+        "Season": 1,
+        "String": "Lifestyle"
+    },
+    "0597": {
+        "HowToGet": "Shop",
+        "Id": "0597",
+        "Season": 1,
+        "String": "Member"
+    },
+    "0579": {
+        "HowToGet": "Shop",
+        "Id": "0579",
+        "Season": 1,
+        "String": "Snowstorm"
+    },
+    "0581": {
+        "HowToGet": "Shop",
+        "Id": "0581",
+        "Season": 1,
+        "String": "Friend"
+    },
+    "0582": {
+        "HowToGet": "Shop",
+        "Id": "0582",
+        "Season": 1,
+        "String": "Headliner"
+    },
+    "0583": {
+        "HowToGet": "Shop",
+        "Id": "0583",
+        "Season": 1,
+        "String": "Senior"
+    },
+    "0584": {
+        "HowToGet": "Shop",
+        "Id": "0584",
+        "Season": 1,
+        "String": "Vocalist"
+    },
+    "0585": {
+        "HowToGet": "Shop",
+        "Id": "0585",
+        "Season": 1,
+        "String": "Board Gamer"
+    },
+    "0586": {
+        "HowToGet": "Shop",
+        "Id": "0586",
+        "Season": 1,
+        "String": "Boss"
+    },
+    "0588": {
+        "HowToGet": "Shop",
+        "Id": "0588",
+        "Season": 1,
+        "String": "Bodyguard"
+    },
+    "0589": {
+        "HowToGet": "Shop",
+        "Id": "0589",
+        "Season": 1,
+        "String": "Mermaid"
+    },
+    "0590": {
+        "HowToGet": "Shop",
+        "Id": "0590",
+        "Season": 1,
+        "String": "Mask"
+    },
+    "0591": {
+        "HowToGet": "Shop",
+        "Id": "0591",
+        "Season": 1,
+        "String": "Superstar"
+    },
+    "0592": {
+        "HowToGet": "Shop",
+        "Id": "0592",
+        "Season": 1,
+        "String": "Maniac"
+    },
+    "0593": {
+        "HowToGet": "Shop",
+        "Id": "0593",
+        "Season": 1,
+        "String": "Mystery"
+    },
+    "0595": {
+        "HowToGet": "Shop",
+        "Id": "0595",
+        "Season": 1,
+        "String": "Bifocal Wearer"
+    },
+    "0596": {
+        "HowToGet": "Shop",
+        "Id": "0596",
+        "Season": 1,
+        "String": "Therapist"
+    },
+    "0577": {
+        "HowToGet": "Shop",
+        "Id": "0577",
+        "Season": 1,
+        "String": "Brand Loyalist"
+    },
+    "0618": {
+        "HowToGet": "Shop",
+        "Id": "0618",
+        "Season": 1,
+        "String": "Prime Cut"
+    },
+    "0537": {
+        "HowToGet": "Shop",
+        "Id": "0537",
+        "Season": 1,
+        "String": "Crab"
+    },
+    "0535": {
+        "HowToGet": "Shop",
+        "Id": "0535",
+        "Season": 1,
+        "String": "Camper"
+    },
+    "0480": {
+        "HowToGet": "Shop",
+        "Id": "0480",
+        "Season": 1,
+        "String": "Fish Ball"
+    },
+    "0481": {
+        "HowToGet": "Shop",
+        "Id": "0481",
+        "Season": 1,
+        "String": "Material"
+    },
+    "0482": {
+        "HowToGet": "Shop",
+        "Id": "0482",
+        "Season": 1,
+        "String": "Sushi"
+    },
+    "0483": {
+        "HowToGet": "Shop",
+        "Id": "0483",
+        "Season": 1,
+        "String": "Caller"
+    },
+    "0484": {
+        "HowToGet": "Shop",
+        "Id": "0484",
+        "Season": 1,
+        "String": "Seafood"
+    },
+    "0485": {
+        "HowToGet": "Shop",
+        "Id": "0485",
+        "Season": 1,
+        "String": "Mincemeat"
+    },
+    "0479": {
+        "HowToGet": "Shop",
+        "Id": "0479",
+        "Season": 1,
+        "String": "Brainiac"
+    },
+    "0486": {
+        "HowToGet": "Shop",
+        "Id": "0486",
+        "Season": 1,
+        "String": "Squid Jerky"
+    },
+    "0488": {
+        "HowToGet": "Shop",
+        "Id": "0488",
+        "Season": 1,
+        "String": "Vitamin"
+    },
+    "0489": {
+        "HowToGet": "Shop",
+        "Id": "0489",
+        "Season": 1,
+        "String": "Weapon"
+    },
+    "0491": {
+        "HowToGet": "Shop",
+        "Id": "0491",
+        "Season": 1,
+        "String": "Dried Fish"
+    },
+    "0492": {
+        "HowToGet": "Shop",
+        "Id": "0492",
+        "Season": 1,
+        "String": "Muscle"
+    },
+    "0493": {
+        "HowToGet": "Shop",
+        "Id": "0493",
+        "Season": 1,
+        "String": "Illusion"
+    },
+    "0494": {
+        "HowToGet": "Shop",
+        "Id": "0494",
+        "Season": 1,
+        "String": "Shield"
+    },
+    "0487": {
+        "HowToGet": "Shop",
+        "Id": "0487",
+        "Season": 1,
+        "String": "Booyah"
+    },
+    "0478": {
+        "HowToGet": "Shop",
+        "Id": "0478",
+        "Season": 1,
+        "String": "Magician"
+    },
+    "0477": {
+        "HowToGet": "Shop",
+        "Id": "0477",
+        "Season": 1,
+        "String": "Jokester"
+    },
+    "0476": {
+        "HowToGet": "Shop",
+        "Id": "0476",
+        "Season": 1,
+        "String": "Superhero"
+    },
+    "0460": {
+        "HowToGet": "Shop",
+        "Id": "0460",
+        "Season": 1,
+        "String": "Layabout"
+    },
+    "0461": {
+        "HowToGet": "Shop",
+        "Id": "0461",
+        "Season": 1,
+        "String": "Big Mouth"
+    },
+    "0463": {
+        "HowToGet": "Shop",
+        "Id": "0463",
+        "Season": 1,
+        "String": "Chow Hound"
+    },
+    "0464": {
+        "HowToGet": "Shop",
+        "Id": "0464",
+        "Season": 1,
+        "String": "Dynamo"
+    },
+    "0465": {
+        "HowToGet": "Shop",
+        "Id": "0465",
+        "Season": 1,
+        "String": "Hothead"
+    },
+    "0466": {
+        "HowToGet": "Shop",
+        "Id": "0466",
+        "Season": 1,
+        "String": "Octoling Soldier"
+    },
+    "0467": {
+        "HowToGet": "Shop",
+        "Id": "0467",
+        "Season": 1,
+        "String": "Power Egg"
+    },
+    "0468": {
+        "HowToGet": "Shop",
+        "Id": "0468",
+        "Season": 1,
+        "String": "Villain"
+    },
+    "0469": {
+        "HowToGet": "Shop",
+        "Id": "0469",
+        "Season": 1,
+        "String": "Fam"
+    },
+    "0470": {
+        "HowToGet": "Shop",
+        "Id": "0470",
+        "Season": 1,
+        "String": "Turtle"
+    },
+    "0471": {
+        "HowToGet": "Shop",
+        "Id": "0471",
+        "Season": 1,
+        "String": "Form"
+    },
+    "0472": {
+        "HowToGet": "Shop",
+        "Id": "0472",
+        "Season": 1,
+        "String": "Knight"
+    },
+    "0473": {
+        "HowToGet": "Shop",
+        "Id": "0473",
+        "Season": 1,
+        "String": "Egg"
+    },
+    "0474": {
+        "HowToGet": "Shop",
+        "Id": "0474",
+        "Season": 1,
+        "String": "Entertainer"
+    },
+    "0475": {
+        "HowToGet": "Shop",
+        "Id": "0475",
+        "Season": 1,
+        "String": "Comrade"
+    },
+    "0495": {
+        "HowToGet": "Shop",
+        "Id": "0495",
+        "Season": 1,
+        "String": "Leader"
+    },
+    "0536": {
+        "HowToGet": "Shop",
+        "Id": "0536",
+        "Season": 1,
+        "String": "Cupid"
+    },
+    "0496": {
+        "HowToGet": "Shop",
+        "Id": "0496",
+        "Season": 1,
+        "String": "Viewer"
+    },
+    "0499": {
+        "HowToGet": "Shop",
+        "Id": "0499",
+        "Season": 1,
+        "String": "Tournament Competitor"
+    },
+    "0520": {
+        "HowToGet": "Shop",
+        "Id": "0520",
+        "Season": 1,
+        "String": "Elegance"
+    },
+    "0521": {
+        "HowToGet": "Shop",
+        "Id": "0521",
+        "Season": 1,
+        "String": "Big Deal"
+    },
+    "0522": {
+        "HowToGet": "Shop",
+        "Id": "0522",
+        "Season": 1,
+        "String": "Big Boss"
+    },
+    "0523": {
+        "HowToGet": "Shop",
+        "Id": "0523",
+        "Season": 1,
+        "String": "Otaku"
+    },
+    "0524": {
+        "HowToGet": "Shop",
+        "Id": "0524",
+        "Season": 1,
+        "String": "Dance Master"
+    },
+    "0525": {
+        "HowToGet": "Shop",
+        "Id": "0525",
+        "Season": 1,
+        "String": "Freebie"
+    },
+    "0519": {
+        "HowToGet": "Shop",
+        "Id": "0519",
+        "Season": 1,
+        "String": "Moray Eel"
+    },
+    "0526": {
+        "HowToGet": "Shop",
+        "Id": "0526",
+        "Season": 1,
+        "String": "Kid"
+    },
+    "0529": {
+        "HowToGet": "Shop",
+        "Id": "0529",
+        "Season": 1,
+        "String": "Photographer"
+    },
+    "0530": {
+        "HowToGet": "Shop",
+        "Id": "0530",
+        "Season": 1,
+        "String": "Fried Chicken"
+    },
+    "0531": {
+        "HowToGet": "Shop",
+        "Id": "0531",
+        "Season": 1,
+        "String": "Extrovert"
+    },
+    "0532": {
+        "HowToGet": "Shop",
+        "Id": "0532",
+        "Season": 1,
+        "String": "Carpaccio"
+    },
+    "0533": {
+        "HowToGet": "Shop",
+        "Id": "0533",
+        "Season": 1,
+        "String": "Synth Player"
+    },
+    "0534": {
+        "HowToGet": "Shop",
+        "Id": "0534",
+        "Season": 1,
+        "String": "Guitarist"
+    },
+    "0528": {
+        "HowToGet": "Shop",
+        "Id": "0528",
+        "Season": 1,
+        "String": "Pack Leader"
+    },
+    "0518": {
+        "HowToGet": "Shop",
+        "Id": "0518",
+        "Season": 1,
+        "String": "Influencer"
+    },
+    "0517": {
+        "HowToGet": "Shop",
+        "Id": "0517",
+        "Season": 1,
+        "String": "Ink"
+    },
+    "0516": {
+        "HowToGet": "Shop",
+        "Id": "0516",
+        "Season": 1,
+        "String": "Squid, Inc."
+    },
+    "0500": {
+        "HowToGet": "Shop",
+        "Id": "0500",
+        "Season": 1,
+        "String": "Agent 1"
+    },
+    "0501": {
+        "HowToGet": "Shop",
+        "Id": "0501",
+        "Season": 1,
+        "String": "Agent 2"
+    },
+    "0502": {
+        "HowToGet": "Shop",
+        "Id": "0502",
+        "Season": 1,
+        "String": "Agent 4"
+    },
+    "0503": {
+        "HowToGet": "Shop",
+        "Id": "0503",
+        "Season": 1,
+        "String": "Agent 8"
+    },
+    "0504": {
+        "HowToGet": "Shop",
+        "Id": "0504",
+        "Season": 1,
+        "String": "AI"
+    },
+    "0505": {
+        "HowToGet": "Shop",
+        "Id": "0505",
+        "Season": 1,
+        "String": "Object of Affection"
+    },
+    "0507": {
+        "HowToGet": "Shop",
+        "Id": "0507",
+        "Season": 1,
+        "String": "Such and Such"
+    },
+    "0508": {
+        "HowToGet": "Shop",
+        "Id": "0508",
+        "Season": 1,
+        "String": "Outlaw"
+    },
+    "0509": {
+        "HowToGet": "Shop",
+        "Id": "0509",
+        "Season": 1,
+        "String": "Heel"
+    },
+    "0510": {
+        "HowToGet": "Shop",
+        "Id": "0510",
+        "Season": 1,
+        "String": "Tabletop Gamer"
+    },
+    "0511": {
+        "HowToGet": "Shop",
+        "Id": "0511",
+        "Season": 1,
+        "String": "Android"
+    },
+    "0512": {
+        "HowToGet": "Shop",
+        "Id": "0512",
+        "Season": 1,
+        "String": "Legend"
+    },
+    "0513": {
+        "HowToGet": "Shop",
+        "Id": "0513",
+        "Season": 1,
+        "String": "Squid Ink"
+    },
+    "0514": {
+        "HowToGet": "Shop",
+        "Id": "0514",
+        "Season": 1,
+        "String": "Squid Life"
+    },
+    "0515": {
+        "HowToGet": "Shop",
+        "Id": "0515",
+        "Season": 1,
+        "String": "Squid Ring"
+    },
+    "0498": {
+        "HowToGet": "Shop",
+        "Id": "0498",
+        "Season": 1,
+        "String": "System"
+    },
+    "0459": {
+        "HowToGet": "Shop",
+        "Id": "0459",
+        "Season": 1,
+        "String": "Chef"
+    },
+    "0619": {
+        "HowToGet": "Shop",
+        "Id": "0619",
+        "Season": 1,
+        "String": "Mood"
+    },
+    "0621": {
+        "HowToGet": "Shop",
+        "Id": "0621",
+        "Season": 1,
+        "String": "Demon"
+    },
+    "0723": {
+        "HowToGet": "Shop",
+        "Id": "0723",
+        "Season": 1,
+        "String": "Geek"
+    },
+    "0724": {
+        "HowToGet": "Shop",
+        "Id": "0724",
+        "Season": 1,
+        "String": "Head"
+    },
+    "0725": {
+        "HowToGet": "Shop",
+        "Id": "0725",
+        "Season": 1,
+        "String": "Fit"
+    },
+    "0727": {
+        "HowToGet": "Shop",
+        "Id": "0727",
+        "Season": 1,
+        "String": "B-Boy"
+    },
+    "0728": {
+        "HowToGet": "Shop",
+        "Id": "0728",
+        "Season": 1,
+        "String": "Skater"
+    },
+    "0729": {
+        "HowToGet": "Shop",
+        "Id": "0729",
+        "Season": 1,
+        "String": "Duke"
+    },
+    "0722": {
+        "HowToGet": "Shop",
+        "Id": "0722",
+        "Season": 1,
+        "String": "Paradigm"
+    },
+    "0730": {
+        "HowToGet": "Shop",
+        "Id": "0730",
+        "Season": 1,
+        "String": "Celebrity"
+    },
+    "2002": {
+        "HowToGet": "Catalog",
+        "Id": "2002",
+        "Season": 2,
+        "String": "Recollection"
+    },
+    "2003": {
+        "HowToGet": "Catalog",
+        "Id": "2003",
+        "Season": 2,
+        "String": "Stylist"
+    },
+    "0721": {
+        "HowToGet": "Shop",
+        "Id": "0721",
+        "Season": 1,
+        "String": "DJ"
+    },
+    "0720": {
+        "HowToGet": "Shop",
+        "Id": "0720",
+        "Season": 1,
+        "String": "Cub"
+    },
+    "0719": {
+        "HowToGet": "Shop",
+        "Id": "0719",
+        "Season": 1,
+        "String": "Grand Master"
+    },
+    "0701": {
+        "HowToGet": "Shop",
+        "Id": "0701",
+        "Season": 1,
+        "String": "Fuzzball"
+    },
+    "0702": {
+        "HowToGet": "Shop",
+        "Id": "0702",
+        "Season": 1,
+        "String": "Actor"
+    },
+    "0703": {
+        "HowToGet": "Shop",
+        "Id": "0703",
+        "Season": 1,
+        "String": "Ghost"
+    },
+    "0705": {
+        "HowToGet": "Shop",
+        "Id": "0705",
+        "Season": 1,
+        "String": "Atlantean"
+    },
+    "0706": {
+        "HowToGet": "Shop",
+        "Id": "0706",
+        "Season": 1,
+        "String": "Teardrop"
+    },
+    "0707": {
+        "HowToGet": "Shop",
+        "Id": "0707",
+        "Season": 1,
+        "String": "Ronin"
+    },
+    "0709": {
+        "HowToGet": "Shop",
+        "Id": "0709",
+        "Season": 1,
+        "String": "Rice Bowl"
+    },
+    "0710": {
+        "HowToGet": "Shop",
+        "Id": "0710",
+        "Season": 1,
+        "String": "Outfit"
+    },
+    "0711": {
+        "HowToGet": "Shop",
+        "Id": "0711",
+        "Season": 1,
+        "String": "Palette"
+    },
+    "0713": {
+        "HowToGet": "Shop",
+        "Id": "0713",
+        "Season": 1,
+        "String": "Snacks"
+    },
+    "0714": {
+        "HowToGet": "Shop",
+        "Id": "0714",
+        "Season": 1,
+        "String": "Follower"
+    },
+    "0715": {
+        "HowToGet": "Shop",
+        "Id": "0715",
+        "Season": 1,
+        "String": "Marinade"
+    },
+    "0716": {
+        "HowToGet": "Shop",
+        "Id": "0716",
+        "Season": 1,
+        "String": "Switch-Hitter"
+    },
+    "0717": {
+        "HowToGet": "Shop",
+        "Id": "0717",
+        "Season": 1,
+        "String": "Stir-Fry"
+    },
+    "0718": {
+        "HowToGet": "Shop",
+        "Id": "0718",
+        "Season": 1,
+        "String": "Catfish"
+    },
+    "0700": {
+        "HowToGet": "Shop",
+        "Id": "0700",
+        "Season": 1,
+        "String": "Life"
+    },
+    "3006": {
+        "HowToGet": "Shop",
+        "Id": "3006",
+        "Season": 0,
+        "String": "Father"
+    },
+    "3007": {
+        "HowToGet": "Shop",
+        "Id": "3007",
+        "Season": 0,
+        "String": "Dad"
+    },
+    "3008": {
+        "HowToGet": "Shop",
+        "Id": "3008",
+        "Season": 0,
+        "String": "Son"
+    },
+    "3009": {
+        "HowToGet": "Shop",
+        "Id": "3009",
+        "Season": 0,
+        "String": "Big Brother"
+    },
+    "3010": {
+        "HowToGet": "Shop",
+        "Id": "3010",
+        "Season": 0,
+        "String": "Little Brother"
+    },
+    "3011": {
+        "HowToGet": "Shop",
+        "Id": "3011",
+        "Season": 0,
+        "String": "Grandpa"
+    },
+    "3005": {
+        "HowToGet": "Shop",
+        "Id": "3005",
+        "Season": 0,
+        "String": "Agent 3"
+    },
+    "3012": {
+        "HowToGet": "Shop",
+        "Id": "3012",
+        "Season": 0,
+        "String": "Grandchild"
+    },
+    "3014": {
+        "HowToGet": "Shop",
+        "Id": "3014",
+        "Season": 0,
+        "String": "Youngster"
+    },
+    "3015": {
+        "HowToGet": "Shop",
+        "Id": "3015",
+        "Season": 0,
+        "String": "Pet"
+    },
+    "3100": {
+        "HowToGet": "Other",
+        "Id": "3100",
+        "Season": 0,
+        "String": "World Champ"
+    },
+    "3200": {
+        "HowToGet": "Other",
+        "Id": "3200",
+        "Season": 0,
+        "String": "Tableturf Battler"
+    },
+    "3201": {
+        "HowToGet": "Other",
+        "Id": "3201",
+        "Season": 0,
+        "String": "Card Gamer"
+    },
+    "3300": {
+        "HowToGet": "Other",
+        "Id": "3300",
+        "Season": 0,
+        "String": "Traveler"
+    },
+    "3013": {
+        "HowToGet": "Shop",
+        "Id": "3013",
+        "Season": 0,
+        "String": "Uncle"
+    },
+    "3004": {
+        "HowToGet": "Shop",
+        "Id": "3004",
+        "Season": 0,
+        "String": "Boy"
+    },
+    "3003": {
+        "HowToGet": "Shop",
+        "Id": "3003",
+        "Season": 0,
+        "String": "Salmon"
+    },
+    "3002": {
+        "HowToGet": "Shop",
+        "Id": "3002",
+        "Season": 0,
+        "String": "Octopus"
+    },
+    "2500": {
+        "HowToGet": "Other",
+        "Id": "2500",
+        "Season": 0,
+        "String": "Lucky Duck"
+    },
+    "2501": {
+        "HowToGet": "Other",
+        "Id": "2501",
+        "Season": 2,
+        "String": "Protected Species"
+    },
+    "3000": {
+        "HowToGet": "Shop",
+        "Id": "3000",
+        "Season": 0,
+        "String": "Youth"
+    },
+    "3001": {
+        "HowToGet": "Shop",
+        "Id": "3001",
+        "Season": 0,
+        "String": "Squid"
+    },
+    "0620": {
+        "HowToGet": "Shop",
+        "Id": "0620",
+        "Season": 1,
+        "String": "Memory"
+    },
+    "0699": {
+        "HowToGet": "Shop",
+        "Id": "0699",
+        "Season": 1,
+        "String": "Pro"
+    },
+    "0697": {
+        "HowToGet": "Shop",
+        "Id": "0697",
+        "Season": 1,
+        "String": "Equation"
+    },
+    "0643": {
+        "HowToGet": "Shop",
+        "Id": "0643",
+        "Season": 1,
+        "String": "Fledgling"
+    },
+    "0644": {
+        "HowToGet": "Shop",
+        "Id": "0644",
+        "Season": 1,
+        "String": "Employee"
+    },
+    "0645": {
+        "HowToGet": "Shop",
+        "Id": "0645",
+        "Season": 1,
+        "String": "Grease"
+    },
+    "0646": {
+        "HowToGet": "Shop",
+        "Id": "0646",
+        "Season": 1,
+        "String": "Beginner"
+    },
+    "0647": {
+        "HowToGet": "Shop",
+        "Id": "0647",
+        "Season": 1,
+        "String": "Imp"
+    },
+    "0648": {
+        "HowToGet": "Shop",
+        "Id": "0648",
+        "Season": 1,
+        "String": "Higher-Up"
+    },
+    "0642": {
+        "HowToGet": "Shop",
+        "Id": "0642",
+        "Season": 1,
+        "String": "Sidekick"
+    },
+    "0649": {
+        "HowToGet": "Shop",
+        "Id": "0649",
+        "Season": 1,
+        "String": "Trainee"
+    },
+    "0651": {
+        "HowToGet": "Shop",
+        "Id": "0651",
+        "Season": 1,
+        "String": "Freshman"
+    },
+    "0652": {
+        "HowToGet": "Shop",
+        "Id": "0652",
+        "Season": 1,
+        "String": "Truth Teller"
+    },
+    "0653": {
+        "HowToGet": "Shop",
+        "Id": "0653",
+        "Season": 1,
+        "String": "Kingpin"
+    },
+    "0655": {
+        "HowToGet": "Shop",
+        "Id": "0655",
+        "Season": 1,
+        "String": "Life of the Party"
+    },
+    "0657": {
+        "HowToGet": "Shop",
+        "Id": "0657",
+        "Season": 1,
+        "String": "Wallflower"
+    },
+    "0658": {
+        "HowToGet": "Shop",
+        "Id": "0658",
+        "Season": 1,
+        "String": "Life Itself"
+    },
+    "0650": {
+        "HowToGet": "Shop",
+        "Id": "0650",
+        "Season": 1,
+        "String": "Rookie of the Year"
+    },
+    "0641": {
+        "HowToGet": "Shop",
+        "Id": "0641",
+        "Season": 1,
+        "String": "Free Spirit"
+    },
+    "0639": {
+        "HowToGet": "Shop",
+        "Id": "0639",
+        "Season": 1,
+        "String": "Sensei"
+    },
+    "0638": {
+        "HowToGet": "Shop",
+        "Id": "0638",
+        "Season": 1,
+        "String": "Underling"
+    },
+    "0622": {
+        "HowToGet": "Shop",
+        "Id": "0622",
+        "Season": 1,
+        "String": "Giant"
+    },
+    "0623": {
+        "HowToGet": "Shop",
+        "Id": "0623",
+        "Season": 1,
+        "String": "Fish Print"
+    },
+    "0625": {
+        "HowToGet": "Shop",
+        "Id": "0625",
+        "Season": 1,
+        "String": "Mirror"
+    },
+    "0626": {
+        "HowToGet": "Shop",
+        "Id": "0626",
+        "Season": 1,
+        "String": "Avocado Roll"
+    },
+    "0627": {
+        "HowToGet": "Shop",
+        "Id": "0627",
+        "Season": 1,
+        "String": "Moon"
+    },
+    "0628": {
+        "HowToGet": "Shop",
+        "Id": "0628",
+        "Season": 1,
+        "String": "Fist"
+    },
+    "0629": {
+        "HowToGet": "Shop",
+        "Id": "0629",
+        "Season": 1,
+        "String": "Caveman"
+    },
+    "0630": {
+        "HowToGet": "Shop",
+        "Id": "0630",
+        "Season": 1,
+        "String": "Expert"
+    },
+    "0631": {
+        "HowToGet": "Shop",
+        "Id": "0631",
+        "Season": 1,
+        "String": "Novice"
+    },
+    "0632": {
+        "HowToGet": "Shop",
+        "Id": "0632",
+        "Season": 1,
+        "String": "Foreman"
+    },
+    "0633": {
+        "HowToGet": "Shop",
+        "Id": "0633",
+        "Season": 1,
+        "String": "Ruffian"
+    },
+    "0634": {
+        "HowToGet": "Shop",
+        "Id": "0634",
+        "Season": 1,
+        "String": "Comic Relief"
+    },
+    "0635": {
+        "HowToGet": "Shop",
+        "Id": "0635",
+        "Season": 1,
+        "String": "Adviser"
+    },
+    "0636": {
+        "HowToGet": "Shop",
+        "Id": "0636",
+        "Season": 1,
+        "String": "Sashimi"
+    },
+    "0637": {
+        "HowToGet": "Shop",
+        "Id": "0637",
+        "Season": 1,
+        "String": "Legendary Warrior"
+    },
+    "0659": {
+        "HowToGet": "Shop",
+        "Id": "0659",
+        "Season": 1,
+        "String": "Humanity"
+    },
+    "0698": {
+        "HowToGet": "Shop",
+        "Id": "0698",
+        "Season": 1,
+        "String": "Archdemon"
+    },
+    "0660": {
+        "HowToGet": "Shop",
+        "Id": "0660",
+        "Season": 1,
+        "String": "Supervisor"
+    },
+    "0662": {
+        "HowToGet": "Shop",
+        "Id": "0662",
+        "Season": 1,
+        "String": "Inkantation"
+    },
+    "0682": {
+        "HowToGet": "Shop",
+        "Id": "0682",
+        "Season": 1,
+        "String": "Target"
+    },
+    "0683": {
+        "HowToGet": "Shop",
+        "Id": "0683",
+        "Season": 1,
+        "String": "Maestro"
+    },
+    "0684": {
+        "HowToGet": "Shop",
+        "Id": "0684",
+        "Season": 1,
+        "String": "Angel"
+    },
+    "0685": {
+        "HowToGet": "Shop",
+        "Id": "0685",
+        "Season": 1,
+        "String": "Island Dweller"
+    },
+    "0686": {
+        "HowToGet": "Shop",
+        "Id": "0686",
+        "Season": 1,
+        "String": "Tofu"
+    },
+    "0687": {
+        "HowToGet": "Shop",
+        "Id": "0687",
+        "Season": 1,
+        "String": "Forehead"
+    },
+    "0681": {
+        "HowToGet": "Shop",
+        "Id": "0681",
+        "Season": 1,
+        "String": "Apprentice"
+    },
+    "0689": {
+        "HowToGet": "Shop",
+        "Id": "0689",
+        "Season": 1,
+        "String": "Plumber"
+    },
+    "0691": {
+        "HowToGet": "Shop",
+        "Id": "0691",
+        "Season": 1,
+        "String": "Merperson"
+    },
+    "0692": {
+        "HowToGet": "Shop",
+        "Id": "0692",
+        "Season": 1,
+        "String": "Sidestepper"
+    },
+    "0693": {
+        "HowToGet": "Shop",
+        "Id": "0693",
+        "Season": 1,
+        "String": "Flotsam"
+    },
+    "0694": {
+        "HowToGet": "Shop",
+        "Id": "0694",
+        "Season": 1,
+        "String": "Subordinate"
+    },
+    "0695": {
+        "HowToGet": "Shop",
+        "Id": "0695",
+        "Season": 1,
+        "String": "Wall"
+    },
+    "0696": {
+        "HowToGet": "Shop",
+        "Id": "0696",
+        "Season": 1,
+        "String": "Predator"
+    },
+    "0690": {
+        "HowToGet": "Shop",
+        "Id": "0690",
+        "Season": 1,
+        "String": "Content Creator"
+    },
+    "0680": {
+        "HowToGet": "Shop",
+        "Id": "0680",
+        "Season": 1,
+        "String": "Fisherfolk"
+    },
+    "0679": {
+        "HowToGet": "Shop",
+        "Id": "0679",
+        "Season": 1,
+        "String": "Stan"
+    },
+    "0678": {
+        "HowToGet": "Shop",
+        "Id": "0678",
+        "Season": 1,
+        "String": "Bird"
+    },
+    "0663": {
+        "HowToGet": "Shop",
+        "Id": "0663",
+        "Season": 1,
+        "String": "Penny-Pincher"
+    },
+    "0664": {
+        "HowToGet": "Shop",
+        "Id": "0664",
+        "Season": 1,
+        "String": "Mountaintop Guru"
+    },
+    "0665": {
+        "HowToGet": "Shop",
+        "Id": "0665",
+        "Season": 1,
+        "String": "Mentor"
+    },
+    "0666": {
+        "HowToGet": "Shop",
+        "Id": "0666",
+        "Season": 1,
+        "String": "Warrior"
+    },
+    "0667": {
+        "HowToGet": "Shop",
+        "Id": "0667",
+        "Season": 1,
+        "String": "Berserker"
+    },
+    "0668": {
+        "HowToGet": "Shop",
+        "Id": "0668",
+        "Season": 1,
+        "String": "Blade of Grass"
+    },
+    "0669": {
+        "HowToGet": "Shop",
+        "Id": "0669",
+        "Season": 1,
+        "String": "Entity"
+    },
+    "0670": {
+        "HowToGet": "Shop",
+        "Id": "0670",
+        "Season": 1,
+        "String": "Sun"
+    },
+    "0671": {
+        "HowToGet": "Shop",
+        "Id": "0671",
+        "Season": 1,
+        "String": "Representative"
+    },
+    "0672": {
+        "HowToGet": "Shop",
+        "Id": "0672",
+        "Season": 1,
+        "String": "Cabinet Member"
+    },
+    "0673": {
+        "HowToGet": "Shop",
+        "Id": "0673",
+        "Season": 1,
+        "String": "Freshwater Fish"
+    },
+    "0674": {
+        "HowToGet": "Shop",
+        "Id": "0674",
+        "Season": 1,
+        "String": "Group Member"
+    },
+    "0675": {
+        "HowToGet": "Shop",
+        "Id": "0675",
+        "Season": 1,
+        "String": "Style Icon"
+    },
+    "0676": {
+        "HowToGet": "Shop",
+        "Id": "0676",
+        "Season": 1,
+        "String": "Bug"
+    },
+    "0677": {
+        "HowToGet": "Shop",
+        "Id": "0677",
+        "Season": 1,
+        "String": "Contender"
+    },
+    "0661": {
+        "HowToGet": "Shop",
+        "Id": "0661",
+        "Season": 1,
+        "String": "Fillet"
+    },
+    "3301": {
+        "HowToGet": "Other",
+        "Id": "3301",
+        "Season": 2,
+        "String": "Cyclist"
+    },
+    "0458": {
+        "HowToGet": "Shop",
+        "Id": "0458",
+        "Season": 1,
+        "String": "Hero"
+    },
+    "0455": {
+        "HowToGet": "Shop",
+        "Id": "0455",
+        "Season": 1,
+        "String": "Adventurer"
+    },
+    "0156": {
+        "HowToGet": "Shop",
+        "Id": "0156",
+        "Season": 0,
+        "String": "Firefin Model"
+    },
+    "0157": {
+        "HowToGet": "Shop",
+        "Id": "0157",
+        "Season": 0,
+        "String": "Skalop Model"
+    },
+    "0158": {
+        "HowToGet": "Shop",
+        "Id": "0158",
+        "Season": 0,
+        "String": "Splash Mob Model"
+    },
+    "0159": {
+        "HowToGet": "Shop",
+        "Id": "0159",
+        "Season": 0,
+        "String": "Inkline Model"
+    },
+    "0160": {
+        "HowToGet": "Shop",
+        "Id": "0160",
+        "Season": 0,
+        "String": "Tentatek Model"
+    },
+    "0161": {
+        "HowToGet": "Shop",
+        "Id": "0161",
+        "Season": 0,
+        "String": "Takoroka Model"
+    },
+    "0155": {
+        "HowToGet": "Shop",
+        "Id": "0155",
+        "Season": 0,
+        "String": "Forge Model"
+    },
+    "0162": {
+        "HowToGet": "Shop",
+        "Id": "0162",
+        "Season": 0,
+        "String": "Annaki Model"
+    },
+    "0164": {
+        "HowToGet": "Shop",
+        "Id": "0164",
+        "Season": 0,
+        "String": "Toni Kensa Model"
+    },
+    "0166": {
+        "HowToGet": "Shop",
+        "Id": "0166",
+        "Season": 0,
+        "String": "Barazushi Model"
+    },
+    "0167": {
+        "HowToGet": "Shop",
+        "Id": "0167",
+        "Season": 0,
+        "String": "Emberz Model"
+    },
+    "0168": {
+        "HowToGet": "Shop",
+        "Id": "0168",
+        "Season": 0,
+        "String": "Cuttlegear Model"
+    },
+    "0180": {
+        "HowToGet": "Shop",
+        "Id": "0180",
+        "Season": 0,
+        "String": "Squid Squad Fan"
+    },
+    "0163": {
+        "HowToGet": "Shop",
+        "Id": "0163",
+        "Season": 0,
+        "String": "Enperry Model"
+    },
+    "0154": {
+        "HowToGet": "Shop",
+        "Id": "0154",
+        "Season": 0,
+        "String": "Zekko Model"
+    },
+    "0153": {
+        "HowToGet": "Shop",
+        "Id": "0153",
+        "Season": 0,
+        "String": "Rockenberg Model"
+    },
+    "0152": {
+        "HowToGet": "Shop",
+        "Id": "0152",
+        "Season": 0,
+        "String": "Krak-On Model"
+    },
+    "0124": {
+        "HowToGet": "Shop",
+        "Id": "0124",
+        "Season": 0,
+        "String": "Inkjet User"
+    },
+    "0125": {
+        "HowToGet": "Shop",
+        "Id": "0125",
+        "Season": 0,
+        "String": "Wave Breaker User"
+    },
+    "0126": {
+        "HowToGet": "Shop",
+        "Id": "0126",
+        "Season": 0,
+        "String": "Zipcaster User"
+    },
+    "0127": {
+        "HowToGet": "Shop",
+        "Id": "0127",
+        "Season": 0,
+        "String": "Reefslider User"
+    },
+    "0128": {
+        "HowToGet": "Shop",
+        "Id": "0128",
+        "Season": 0,
+        "String": "Crab Tank User"
+    },
+    "0129": {
+        "HowToGet": "Shop",
+        "Id": "0129",
+        "Season": 0,
+        "String": "Booyah Bomb User"
+    },
+    "0130": {
+        "HowToGet": "Shop",
+        "Id": "0130",
+        "Season": 0,
+        "String": "Ink Vac User"
+    },
+    "0131": {
+        "HowToGet": "Shop",
+        "Id": "0131",
+        "Season": 0,
+        "String": "Tenta Missiles User"
+    },
+    "0132": {
+        "HowToGet": "Shop",
+        "Id": "0132",
+        "Season": 0,
+        "String": "Killer Wail 5.1 User"
+    },
+    "0133": {
+        "HowToGet": "Shop",
+        "Id": "0133",
+        "Season": 0,
+        "String": "Triple Inkstrike User"
+    },
+    "0134": {
+        "HowToGet": "Shop",
+        "Id": "0134",
+        "Season": 0,
+        "String": "Tacticooler User"
+    },
+    "0150": {
+        "HowToGet": "Shop",
+        "Id": "0150",
+        "Season": 0,
+        "String": "SquidForce Model"
+    },
+    "0151": {
+        "HowToGet": "Shop",
+        "Id": "0151",
+        "Season": 0,
+        "String": "Zink Model"
+    },
+    "0181": {
+        "HowToGet": "Shop",
+        "Id": "0181",
+        "Season": 0,
+        "String": "Chirpy Chips Fan"
+    },
+    "0123": {
+        "HowToGet": "Shop",
+        "Id": "0123",
+        "Season": 0,
+        "String": "Big Bubbler User"
+    },
+    "0182": {
+        "HowToGet": "Shop",
+        "Id": "0182",
+        "Season": 0,
+        "String": "Hightide Era Fan"
+    },
+    "0184": {
+        "HowToGet": "Shop",
+        "Id": "0184",
+        "Season": 0,
+        "String": "Bottom Feeders Fan"
+    },
+    "0230": {
+        "HowToGet": "Shop",
+        "Id": "0230",
+        "Season": 0,
+        "String": "Spiked Hair"
+    },
+    "0231": {
+        "HowToGet": "Shop",
+        "Id": "0231",
+        "Season": 0,
+        "String": "Bowl Cut"
+    },
+    "0232": {
+        "HowToGet": "Shop",
+        "Id": "0232",
+        "Season": 0,
+        "String": "Braid Bearer"
+    },
+    "0233": {
+        "HowToGet": "Shop",
+        "Id": "0233",
+        "Season": 0,
+        "String": "Classic"
+    },
+    "0234": {
+        "HowToGet": "Shop",
+        "Id": "0234",
+        "Season": 0,
+        "String": "Wet Hair"
+    },
+    "0235": {
+        "HowToGet": "Shop",
+        "Id": "0235",
+        "Season": 0,
+        "String": "Cornrows"
+    },
+    "0229": {
+        "HowToGet": "Shop",
+        "Id": "0229",
+        "Season": 0,
+        "String": "Ponytail"
+    },
+    "0236": {
+        "HowToGet": "Shop",
+        "Id": "0236",
+        "Season": 0,
+        "String": "Curly Hair"
+    },
+    "0238": {
+        "HowToGet": "Shop",
+        "Id": "0238",
+        "Season": 0,
+        "String": "Afro"
+    },
+    "0239": {
+        "HowToGet": "Shop",
+        "Id": "0239",
+        "Season": 0,
+        "String": "Big Curls"
+    },
+    "0240": {
+        "HowToGet": "Shop",
+        "Id": "0240",
+        "Season": 0,
+        "String": "Fade"
+    },
+    "0241": {
+        "HowToGet": "Shop",
+        "Id": "0241",
+        "Season": 0,
+        "String": "Wanderer"
+    },
+    "0242": {
+        "HowToGet": "Shop",
+        "Id": "0242",
+        "Season": 0,
+        "String": "Greaser"
+    },
+    "0243": {
+        "HowToGet": "Shop",
+        "Id": "0243",
+        "Season": 0,
+        "String": "Hipster "
+    },
+    "0237": {
+        "HowToGet": "Shop",
+        "Id": "0237",
+        "Season": 0,
+        "String": "Punk"
+    },
+    "0228": {
+        "HowToGet": "Shop",
+        "Id": "0228",
+        "Season": 0,
+        "String": "Buzz-Cut"
+    },
+    "0227": {
+        "HowToGet": "Shop",
+        "Id": "0227",
+        "Season": 0,
+        "String": "Sharp Dresser"
+    },
+    "0226": {
+        "HowToGet": "Shop",
+        "Id": "0226",
+        "Season": 0,
+        "String": "Topknot Knight"
+    },
+    "0185": {
+        "HowToGet": "Shop",
+        "Id": "0185",
+        "Season": 0,
+        "String": "Ink Theory Fan"
+    },
+    "0186": {
+        "HowToGet": "Shop",
+        "Id": "0186",
+        "Season": 0,
+        "String": "SashiMori Fan"
+    },
+    "0187": {
+        "HowToGet": "Shop",
+        "Id": "0187",
+        "Season": 0,
+        "String": "Diss-Pair Fan"
+    },
+    "0188": {
+        "HowToGet": "Shop",
+        "Id": "0188",
+        "Season": 0,
+        "String": "\u03c9-3 Fan"
+    },
+    "0189": {
+        "HowToGet": "Shop",
+        "Id": "0189",
+        "Season": 0,
+        "String": "Turquoise October Fan"
+    },
+    "0190": {
+        "HowToGet": "Shop",
+        "Id": "0190",
+        "Season": 0,
+        "String": "Dedf1sh Fan"
+    },
+    "0191": {
+        "HowToGet": "Shop",
+        "Id": "0191",
+        "Season": 0,
+        "String": "C-Side Superfan"
+    },
+    "0192": {
+        "HowToGet": "Shop",
+        "Id": "0192",
+        "Season": 2,
+        "String": "Front Roe Fan"
+    },
+    "0193": {
+        "HowToGet": "Shop",
+        "Id": "0193",
+        "Season": 2,
+        "String": "Damp Socks Fan"
+    },
+    "0220": {
+        "HowToGet": "Shop",
+        "Id": "0220",
+        "Season": 0,
+        "String": "Hippie"
+    },
+    "0221": {
+        "HowToGet": "Shop",
+        "Id": "0221",
+        "Season": 0,
+        "String": "Barber"
+    },
+    "0222": {
+        "HowToGet": "Shop",
+        "Id": "0222",
+        "Season": 0,
+        "String": "Double-Bun"
+    },
+    "0223": {
+        "HowToGet": "Shop",
+        "Id": "0223",
+        "Season": 0,
+        "String": "Wave Rider"
+    },
+    "0224": {
+        "HowToGet": "Shop",
+        "Id": "0224",
+        "Season": 0,
+        "String": "Pigtail Pro"
+    },
+    "0225": {
+        "HowToGet": "Shop",
+        "Id": "0225",
+        "Season": 0,
+        "String": "Headbanger"
+    },
+    "0183": {
+        "HowToGet": "Shop",
+        "Id": "0183",
+        "Season": 0,
+        "String": "Wet Floor Fan"
+    },
+    "0300": {
+        "HowToGet": "Shop",
+        "Id": "0300",
+        "Season": 0,
+        "String": "Callie Fan"
+    },
+    "0122": {
+        "HowToGet": "Shop",
+        "Id": "0122",
+        "Season": 0,
+        "String": "Ultra Stamp User"
+    },
+    "0120": {
+        "HowToGet": "Shop",
+        "Id": "0120",
+        "Season": 0,
+        "String": "Ink Storm User"
+    },
+    "0020": {
+        "HowToGet": "Shop",
+        "Id": "0020",
+        "Season": 0,
+        "String": "Splat Roller User"
+    },
+    "0021": {
+        "HowToGet": "Shop",
+        "Id": "0021",
+        "Season": 0,
+        "String": "Dynamo Roller User"
+    },
+    "0022": {
+        "HowToGet": "Shop",
+        "Id": "0022",
+        "Season": 0,
+        "String": "Flingza Roller User"
+    },
+    "0023": {
+        "HowToGet": "Shop",
+        "Id": "0023",
+        "Season": 0,
+        "String": "Inkbrush User"
+    },
+    "0024": {
+        "HowToGet": "Shop",
+        "Id": "0024",
+        "Season": 0,
+        "String": "Octobrush User"
+    },
+    "0025": {
+        "HowToGet": "Shop",
+        "Id": "0025",
+        "Season": 0,
+        "String": "Squiffer User"
+    },
+    "0019": {
+        "HowToGet": "Shop",
+        "Id": "0019",
+        "Season": 0,
+        "String": "Carbon Roller User"
+    },
+    "0026": {
+        "HowToGet": "Shop",
+        "Id": "0026",
+        "Season": 0,
+        "String": "Splat Charger User"
+    },
+    "0028": {
+        "HowToGet": "Shop",
+        "Id": "0028",
+        "Season": 0,
+        "String": "Bamboozler 14 User"
+    },
+    "0029": {
+        "HowToGet": "Shop",
+        "Id": "0029",
+        "Season": 0,
+        "String": "Goo Tuber User"
+    },
+    "0030": {
+        "HowToGet": "Shop",
+        "Id": "0030",
+        "Season": 0,
+        "String": "Slosher User"
+    },
+    "0031": {
+        "HowToGet": "Shop",
+        "Id": "0031",
+        "Season": 0,
+        "String": "Tri-Slosher User"
+    },
+    "0032": {
+        "HowToGet": "Shop",
+        "Id": "0032",
+        "Season": 0,
+        "String": "Sloshing Machine User"
+    },
+    "0033": {
+        "HowToGet": "Shop",
+        "Id": "0033",
+        "Season": 0,
+        "String": "Bloblobber User"
+    },
+    "0027": {
+        "HowToGet": "Shop",
+        "Id": "0027",
+        "Season": 0,
+        "String": "E-liter 4K User"
+    },
+    "0018": {
+        "HowToGet": "Shop",
+        "Id": "0018",
+        "Season": 0,
+        "String": "Squeezer User"
+    },
+    "0017": {
+        "HowToGet": "Shop",
+        "Id": "0017",
+        "Season": 0,
+        "String": "H-3 Nozzlenose User"
+    },
+    "0016": {
+        "HowToGet": "Shop",
+        "Id": "0016",
+        "Season": 0,
+        "String": "L-3 Nozzlenose User"
+    },
+    "0001": {
+        "HowToGet": "Shop",
+        "Id": "0001",
+        "Season": 0,
+        "String": "Splattershot Jr. User"
+    },
+    "0002": {
+        "HowToGet": "Shop",
+        "Id": "0002",
+        "Season": 0,
+        "String": "Splash-o-matic User"
+    },
+    "0003": {
+        "HowToGet": "Shop",
+        "Id": "0003",
+        "Season": 0,
+        "String": "Aerospray User"
+    },
+    "0004": {
+        "HowToGet": "Shop",
+        "Id": "0004",
+        "Season": 0,
+        "String": "Splattershot User"
+    },
+    "0005": {
+        "HowToGet": "Shop",
+        "Id": "0005",
+        "Season": 0,
+        "String": ".52 Gal User"
+    },
+    "0006": {
+        "HowToGet": "Shop",
+        "Id": "0006",
+        "Season": 0,
+        "String": "N-ZAP User"
+    },
+    "0007": {
+        "HowToGet": "Shop",
+        "Id": "0007",
+        "Season": 0,
+        "String": "Splattershot Pro User"
+    },
+    "0008": {
+        "HowToGet": "Shop",
+        "Id": "0008",
+        "Season": 0,
+        "String": ".96 Gal User"
+    },
+    "0009": {
+        "HowToGet": "Shop",
+        "Id": "0009",
+        "Season": 0,
+        "String": "Jet Squelcher User"
+    },
+    "0010": {
+        "HowToGet": "Shop",
+        "Id": "0010",
+        "Season": 0,
+        "String": "Luna Blaster User"
+    },
+    "0011": {
+        "HowToGet": "Shop",
+        "Id": "0011",
+        "Season": 0,
+        "String": "Blaster User"
+    },
+    "0012": {
+        "HowToGet": "Shop",
+        "Id": "0012",
+        "Season": 0,
+        "String": "Range Blaster User"
+    },
+    "0013": {
+        "HowToGet": "Shop",
+        "Id": "0013",
+        "Season": 0,
+        "String": "Clash Blaster User"
+    },
+    "0014": {
+        "HowToGet": "Shop",
+        "Id": "0014",
+        "Season": 0,
+        "String": "Rapid Blaster User"
+    },
+    "0015": {
+        "HowToGet": "Shop",
+        "Id": "0015",
+        "Season": 0,
+        "String": "Rapid Blaster Pro User"
+    },
+    "0034": {
+        "HowToGet": "Shop",
+        "Id": "0034",
+        "Season": 0,
+        "String": "Explosher User"
+    },
+    "0121": {
+        "HowToGet": "Shop",
+        "Id": "0121",
+        "Season": 0,
+        "String": "Trizooka User"
+    },
+    "0035": {
+        "HowToGet": "Shop",
+        "Id": "0035",
+        "Season": 0,
+        "String": "Mini Splatling User"
+    },
+    "0037": {
+        "HowToGet": "Shop",
+        "Id": "0037",
+        "Season": 0,
+        "String": "Hydra Splatling User"
+    },
+    "0100": {
+        "HowToGet": "Shop",
+        "Id": "0100",
+        "Season": 0,
+        "String": "Splat Bomb User"
+    },
+    "0101": {
+        "HowToGet": "Shop",
+        "Id": "0101",
+        "Season": 0,
+        "String": "Suction Bomb User"
+    },
+    "0102": {
+        "HowToGet": "Shop",
+        "Id": "0102",
+        "Season": 0,
+        "String": "Burst Bomb User"
+    },
+    "0103": {
+        "HowToGet": "Shop",
+        "Id": "0103",
+        "Season": 0,
+        "String": "Curling Bomb User"
+    },
+    "0104": {
+        "HowToGet": "Shop",
+        "Id": "0104",
+        "Season": 0,
+        "String": "Autobomb User"
+    },
+    "0105": {
+        "HowToGet": "Shop",
+        "Id": "0105",
+        "Season": 0,
+        "String": "Ink Mine User"
+    },
+    "0056": {
+        "HowToGet": "Shop",
+        "Id": "0056",
+        "Season": 2,
+        "String": "Snipewriter 5H User"
+    },
+    "0106": {
+        "HowToGet": "Shop",
+        "Id": "0106",
+        "Season": 0,
+        "String": "Sprinkler User"
+    },
+    "0108": {
+        "HowToGet": "Shop",
+        "Id": "0108",
+        "Season": 0,
+        "String": "Toxic Mist User"
+    },
+    "0109": {
+        "HowToGet": "Shop",
+        "Id": "0109",
+        "Season": 0,
+        "String": "Splash Wall User"
+    },
+    "0110": {
+        "HowToGet": "Shop",
+        "Id": "0110",
+        "Season": 0,
+        "String": "Squid Beakon User"
+    },
+    "0111": {
+        "HowToGet": "Shop",
+        "Id": "0111",
+        "Season": 0,
+        "String": "Fizzy Bomb User"
+    },
+    "0112": {
+        "HowToGet": "Shop",
+        "Id": "0112",
+        "Season": 0,
+        "String": "Torpedo User"
+    },
+    "0113": {
+        "HowToGet": "Shop",
+        "Id": "0113",
+        "Season": 0,
+        "String": "Angle Shooter User"
+    },
+    "0107": {
+        "HowToGet": "Shop",
+        "Id": "0107",
+        "Season": 0,
+        "String": "Point Sensor User"
+    },
+    "0055": {
+        "HowToGet": "Shop",
+        "Id": "0055",
+        "Season": 2,
+        "String": "Big Swig Roller User"
+    },
+    "0054": {
+        "HowToGet": "Shop",
+        "Id": "0054",
+        "Season": 2,
+        "String": "Splattershot Nova User"
+    },
+    "0053": {
+        "HowToGet": "Shop",
+        "Id": "0053",
+        "Season": 0,
+        "String": "E-liter 4K Scope User"
+    },
+    "0038": {
+        "HowToGet": "Shop",
+        "Id": "0038",
+        "Season": 0,
+        "String": "Ballpoint Splatling User"
+    },
+    "0039": {
+        "HowToGet": "Shop",
+        "Id": "0039",
+        "Season": 0,
+        "String": "Nautilus User"
+    },
+    "0040": {
+        "HowToGet": "Shop",
+        "Id": "0040",
+        "Season": 0,
+        "String": "Dapple Dualies User"
+    },
+    "0041": {
+        "HowToGet": "Shop",
+        "Id": "0041",
+        "Season": 0,
+        "String": "Splat Dualies User"
+    },
+    "0042": {
+        "HowToGet": "Shop",
+        "Id": "0042",
+        "Season": 0,
+        "String": "Glooga Dualies User"
+    },
+    "0043": {
+        "HowToGet": "Shop",
+        "Id": "0043",
+        "Season": 0,
+        "String": "Dualie Squelchers User"
+    },
+    "0044": {
+        "HowToGet": "Shop",
+        "Id": "0044",
+        "Season": 0,
+        "String": "Tetra Dualies User"
+    },
+    "0045": {
+        "HowToGet": "Shop",
+        "Id": "0045",
+        "Season": 0,
+        "String": "Splat Brella User"
+    },
+    "0046": {
+        "HowToGet": "Shop",
+        "Id": "0046",
+        "Season": 0,
+        "String": "Tenta Brella User"
+    },
+    "0047": {
+        "HowToGet": "Shop",
+        "Id": "0047",
+        "Season": 0,
+        "String": "Undercover Brella User"
+    },
+    "0048": {
+        "HowToGet": "Shop",
+        "Id": "0048",
+        "Season": 0,
+        "String": "Tri-Stringer User"
+    },
+    "0049": {
+        "HowToGet": "Shop",
+        "Id": "0049",
+        "Season": 0,
+        "String": "Splatana Stamper User"
+    },
+    "0050": {
+        "HowToGet": "Shop",
+        "Id": "0050",
+        "Season": 0,
+        "String": "REEF-LUX 450 User"
+    },
+    "0051": {
+        "HowToGet": "Shop",
+        "Id": "0051",
+        "Season": 1,
+        "String": "Splatana Wiper User"
+    },
+    "0052": {
+        "HowToGet": "Shop",
+        "Id": "0052",
+        "Season": 0,
+        "String": "Splatterscope User"
+    },
+    "0036": {
+        "HowToGet": "Shop",
+        "Id": "0036",
+        "Season": 0,
+        "String": "Heavy Splatling User"
+    },
+    "0456": {
+        "HowToGet": "Shop",
+        "Id": "0456",
+        "Season": 1,
+        "String": "Comic Artist"
+    },
+    "0301": {
+        "HowToGet": "Shop",
+        "Id": "0301",
+        "Season": 0,
+        "String": "Naut Couture Regular"
+    },
+    "0303": {
+        "HowToGet": "Shop",
+        "Id": "0303",
+        "Season": 0,
+        "String": "Frye Fan"
+    },
+    "0398": {
+        "HowToGet": "Shop",
+        "Id": "0398",
+        "Season": 1,
+        "String": "Athlete"
+    },
+    "0399": {
+        "HowToGet": "Shop",
+        "Id": "0399",
+        "Season": 1,
+        "String": "Agent"
+    },
+    "0400": {
+        "HowToGet": "Shop",
+        "Id": "0400",
+        "Season": 1,
+        "String": "Risk-Taker"
+    },
+    "0401": {
+        "HowToGet": "Shop",
+        "Id": "0401",
+        "Season": 1,
+        "String": "Coach"
+    },
+    "0402": {
+        "HowToGet": "Shop",
+        "Id": "0402",
+        "Season": 1,
+        "String": "Coordinator"
+    },
+    "0403": {
+        "HowToGet": "Shop",
+        "Id": "0403",
+        "Season": 1,
+        "String": "Comedian"
+    },
+    "0397": {
+        "HowToGet": "Shop",
+        "Id": "0397",
+        "Season": 1,
+        "String": "Assistant"
+    },
+    "0404": {
+        "HowToGet": "Shop",
+        "Id": "0404",
+        "Season": 1,
+        "String": "Scientist"
+    },
+    "0406": {
+        "HowToGet": "Shop",
+        "Id": "0406",
+        "Season": 1,
+        "String": "Spy"
+    },
+    "0407": {
+        "HowToGet": "Shop",
+        "Id": "0407",
+        "Season": 1,
+        "String": "Dancer"
+    },
+    "0408": {
+        "HowToGet": "Shop",
+        "Id": "0408",
+        "Season": 1,
+        "String": "Designer"
+    },
+    "0409": {
+        "HowToGet": "Shop",
+        "Id": "0409",
+        "Season": 1,
+        "String": "Ninja"
+    },
+    "0411": {
+        "HowToGet": "Shop",
+        "Id": "0411",
+        "Season": 1,
+        "String": "Part-Timer"
+    },
+    "0412": {
+        "HowToGet": "Shop",
+        "Id": "0412",
+        "Season": 1,
+        "String": "Pilot"
+    },
+    "0405": {
+        "HowToGet": "Shop",
+        "Id": "0405",
+        "Season": 1,
+        "String": "Samurai"
+    },
+    "0396": {
+        "HowToGet": "Shop",
+        "Id": "0396",
+        "Season": 1,
+        "String": "CEO"
+    },
+    "0395": {
+        "HowToGet": "Shop",
+        "Id": "0395",
+        "Season": 1,
+        "String": "Bookworm"
+    },
+    "0394": {
+        "HowToGet": "Shop",
+        "Id": "0394",
+        "Season": 1,
+        "String": "Dolphin"
+    },
+    "0379": {
+        "HowToGet": "Shop",
+        "Id": "0379",
+        "Season": 1,
+        "String": "Surfer"
+    },
+    "0380": {
+        "HowToGet": "Shop",
+        "Id": "0380",
+        "Season": 1,
+        "String": "Festivalgoer"
+    },
+    "0381": {
+        "HowToGet": "Shop",
+        "Id": "0381",
+        "Season": 1,
+        "String": "Flower"
+    },
+    "0382": {
+        "HowToGet": "Shop",
+        "Id": "0382",
+        "Season": 1,
+        "String": "Heat Hater"
+    },
+    "0383": {
+        "HowToGet": "Shop",
+        "Id": "0383",
+        "Season": 1,
+        "String": "Snowperson"
+    },
+    "0384": {
+        "HowToGet": "Shop",
+        "Id": "0384",
+        "Season": 1,
+        "String": "Firecracker"
+    },
+    "0385": {
+        "HowToGet": "Shop",
+        "Id": "0385",
+        "Season": 1,
+        "String": "Eye of the Storm"
+    },
+    "0386": {
+        "HowToGet": "Shop",
+        "Id": "0386",
+        "Season": 1,
+        "String": "Fish"
+    },
+    "0387": {
+        "HowToGet": "Shop",
+        "Id": "0387",
+        "Season": 1,
+        "String": "Deity of Destruction"
+    },
+    "0388": {
+        "HowToGet": "Shop",
+        "Id": "0388",
+        "Season": 1,
+        "String": "Dog"
+    },
+    "0389": {
+        "HowToGet": "Shop",
+        "Id": "0389",
+        "Season": 1,
+        "String": "Dragon"
+    },
+    "0390": {
+        "HowToGet": "Shop",
+        "Id": "0390",
+        "Season": 1,
+        "String": "Cat"
+    },
+    "0391": {
+        "HowToGet": "Shop",
+        "Id": "0391",
+        "Season": 1,
+        "String": "Dinosaur"
+    },
+    "0392": {
+        "HowToGet": "Shop",
+        "Id": "0392",
+        "Season": 1,
+        "String": "Cephalopod"
+    },
+    "0393": {
+        "HowToGet": "Shop",
+        "Id": "0393",
+        "Season": 1,
+        "String": "Bivalve"
+    },
+    "0413": {
+        "HowToGet": "Shop",
+        "Id": "0413",
+        "Season": 1,
+        "String": "Hunter"
+    },
+    "0378": {
+        "HowToGet": "Shop",
+        "Id": "0378",
+        "Season": 1,
+        "String": "Party Lover"
+    },
+    "0415": {
+        "HowToGet": "Shop",
+        "Id": "0415",
+        "Season": 1,
+        "String": "Planner"
+    },
+    "0417": {
+        "HowToGet": "Shop",
+        "Id": "0417",
+        "Season": 1,
+        "String": "Producer"
+    },
+    "0441": {
+        "HowToGet": "Shop",
+        "Id": "0441",
+        "Season": 1,
+        "String": "VP"
+    },
+    "0442": {
+        "HowToGet": "Shop",
+        "Id": "0442",
+        "Season": 1,
+        "String": "Board Member"
+    },
+    "0443": {
+        "HowToGet": "Shop",
+        "Id": "0443",
+        "Season": 1,
+        "String": "Gofer"
+    },
+    "0444": {
+        "HowToGet": "Shop",
+        "Id": "0444",
+        "Season": 1,
+        "String": "Artisan"
+    },
+    "0445": {
+        "HowToGet": "Shop",
+        "Id": "0445",
+        "Season": 1,
+        "String": "Teacher"
+    },
+    "0446": {
+        "HowToGet": "Shop",
+        "Id": "0446",
+        "Season": 1,
+        "String": "Village Leader"
+    },
+    "0440": {
+        "HowToGet": "Shop",
+        "Id": "0440",
+        "Season": 1,
+        "String": "Butler"
+    },
+    "0447": {
+        "HowToGet": "Shop",
+        "Id": "0447",
+        "Season": 1,
+        "String": "Head Honcho"
+    },
+    "0449": {
+        "HowToGet": "Shop",
+        "Id": "0449",
+        "Season": 1,
+        "String": "Mountaineer"
+    },
+    "0450": {
+        "HowToGet": "Shop",
+        "Id": "0450",
+        "Season": 1,
+        "String": "Professor"
+    },
+    "0451": {
+        "HowToGet": "Shop",
+        "Id": "0451",
+        "Season": 1,
+        "String": "Secretary"
+    },
+    "0452": {
+        "HowToGet": "Shop",
+        "Id": "0452",
+        "Season": 1,
+        "String": "Beautician"
+    },
+    "0453": {
+        "HowToGet": "Shop",
+        "Id": "0453",
+        "Season": 1,
+        "String": "Middle Manager"
+    },
+    "0454": {
+        "HowToGet": "Shop",
+        "Id": "0454",
+        "Season": 1,
+        "String": "Vice President"
+    },
+    "0448": {
+        "HowToGet": "Shop",
+        "Id": "0448",
+        "Season": 1,
+        "String": "Detective"
+    },
+    "0439": {
+        "HowToGet": "Shop",
+        "Id": "0439",
+        "Season": 1,
+        "String": "Worker"
+    },
+    "0437": {
+        "HowToGet": "Shop",
+        "Id": "0437",
+        "Season": 1,
+        "String": "Author"
+    },
+    "0434": {
+        "HowToGet": "Shop",
+        "Id": "0434",
+        "Season": 1,
+        "String": "Researcher"
+    },
+    "0418": {
+        "HowToGet": "Shop",
+        "Id": "0418",
+        "Season": 1,
+        "String": "Painter"
+    },
+    "0419": {
+        "HowToGet": "Shop",
+        "Id": "0419",
+        "Season": 1,
+        "String": "Manager"
+    },
+    "0420": {
+        "HowToGet": "Shop",
+        "Id": "0420",
+        "Season": 1,
+        "String": "Model"
+    },
+    "0421": {
+        "HowToGet": "Shop",
+        "Id": "0421",
+        "Season": 1,
+        "String": "Writer"
+    },
+    "0422": {
+        "HowToGet": "Shop",
+        "Id": "0422",
+        "Season": 1,
+        "String": "Executive"
+    },
+    "0423": {
+        "HowToGet": "Shop",
+        "Id": "0423",
+        "Season": 1,
+        "String": "Astronaut"
+    },
+    "0424": {
+        "HowToGet": "Shop",
+        "Id": "0424",
+        "Season": 1,
+        "String": "Singer"
+    },
+    "0425": {
+        "HowToGet": "Shop",
+        "Id": "0425",
+        "Season": 1,
+        "String": "President"
+    },
+    "0426": {
+        "HowToGet": "Shop",
+        "Id": "0426",
+        "Season": 1,
+        "String": "Viking"
+    },
+    "0428": {
+        "HowToGet": "Shop",
+        "Id": "0428",
+        "Season": 1,
+        "String": "Student"
+    },
+    "0429": {
+        "HowToGet": "Shop",
+        "Id": "0429",
+        "Season": 1,
+        "String": "Director"
+    },
+    "0430": {
+        "HowToGet": "Shop",
+        "Id": "0430",
+        "Season": 1,
+        "String": "Lead"
+    },
+    "0431": {
+        "HowToGet": "Shop",
+        "Id": "0431",
+        "Season": 1,
+        "String": "Angler"
+    },
+    "0432": {
+        "HowToGet": "Shop",
+        "Id": "0432",
+        "Season": 1,
+        "String": "Assistant Manager"
+    },
+    "0433": {
+        "HowToGet": "Shop",
+        "Id": "0433",
+        "Season": 1,
+        "String": "Security Guard"
+    },
+    "0416": {
+        "HowToGet": "Shop",
+        "Id": "0416",
+        "Season": 1,
+        "String": "Programmer"
+    },
+    "0302": {
+        "HowToGet": "Shop",
+        "Id": "0302",
+        "Season": 0,
+        "String": "Marina Fan"
+    },
+    "0377": {
+        "HowToGet": "Shop",
+        "Id": "0377",
+        "Season": 1,
+        "String": "Oden Bowl"
+    },
+    "0375": {
+        "HowToGet": "Shop",
+        "Id": "0375",
+        "Season": 1,
+        "String": "King"
+    },
+    "0323": {
+        "HowToGet": "Shop",
+        "Id": "0323",
+        "Season": 0,
+        "String": "Splat Zones Legend"
+    },
+    "0324": {
+        "HowToGet": "Shop",
+        "Id": "0324",
+        "Season": 0,
+        "String": "Tower Control Legend"
+    },
+    "0325": {
+        "HowToGet": "Shop",
+        "Id": "0325",
+        "Season": 0,
+        "String": "Turf War Legend"
+    },
+    "0326": {
+        "HowToGet": "Shop",
+        "Id": "0326",
+        "Season": 0,
+        "String": "Rainmaker Legend"
+    },
+    "0327": {
+        "HowToGet": "Shop",
+        "Id": "0327",
+        "Season": 0,
+        "String": "Salmon Run Legend"
+    },
+    "0328": {
+        "HowToGet": "Shop",
+        "Id": "0328",
+        "Season": 0,
+        "String": "Story Mode Legend"
+    },
+    "0322": {
+        "HowToGet": "Shop",
+        "Id": "0322",
+        "Season": 0,
+        "String": "Clam Blitz Legend"
+    },
+    "0329": {
+        "HowToGet": "Shop",
+        "Id": "0329",
+        "Season": 0,
+        "String": "Inkling"
+    },
+    "0331": {
+        "HowToGet": "Shop",
+        "Id": "0331",
+        "Season": 0,
+        "String": "Tee Model"
+    },
+    "0332": {
+        "HowToGet": "Shop",
+        "Id": "0332",
+        "Season": 0,
+        "String": "Jacket Model"
+    },
+    "0333": {
+        "HowToGet": "Shop",
+        "Id": "0333",
+        "Season": 0,
+        "String": "Shirt Model"
+    },
+    "0334": {
+        "HowToGet": "Shop",
+        "Id": "0334",
+        "Season": 0,
+        "String": "Sneaker Model"
+    },
+    "0335": {
+        "HowToGet": "Shop",
+        "Id": "0335",
+        "Season": 0,
+        "String": "Knit Model"
+    },
+    "0336": {
+        "HowToGet": "Shop",
+        "Id": "0336",
+        "Season": 0,
+        "String": "Trendsetter"
+    },
+    "0330": {
+        "HowToGet": "Shop",
+        "Id": "0330",
+        "Season": 0,
+        "String": "Octoling"
+    },
+    "0321": {
+        "HowToGet": "Shop",
+        "Id": "0321",
+        "Season": 0,
+        "String": "Story Mode Hero"
+    },
+    "0320": {
+        "HowToGet": "Shop",
+        "Id": "0320",
+        "Season": 0,
+        "String": "Turf Warrior"
+    },
+    "0319": {
+        "HowToGet": "Shop",
+        "Id": "0319",
+        "Season": 0,
+        "String": "Salmon Runner"
+    },
+    "0304": {
+        "HowToGet": "Shop",
+        "Id": "0304",
+        "Season": 0,
+        "String": "Crush Station Regular"
+    },
+    "0305": {
+        "HowToGet": "Shop",
+        "Id": "0305",
+        "Season": 0,
+        "String": "Hotlantis Regular"
+    },
+    "0306": {
+        "HowToGet": "Shop",
+        "Id": "0306",
+        "Season": 0,
+        "String": "Squid Sisters Fan"
+    },
+    "0307": {
+        "HowToGet": "Shop",
+        "Id": "0307",
+        "Season": 0,
+        "String": "Deep Cut Fan"
+    },
+    "0308": {
+        "HowToGet": "Shop",
+        "Id": "0308",
+        "Season": 0,
+        "String": "Off the Hook Fan"
+    },
+    "0309": {
+        "HowToGet": "Shop",
+        "Id": "0309",
+        "Season": 0,
+        "String": "Pearl Fan"
+    },
+    "0310": {
+        "HowToGet": "Shop",
+        "Id": "0310",
+        "Season": 0,
+        "String": "Shiver Fan"
+    },
+    "0311": {
+        "HowToGet": "Shop",
+        "Id": "0311",
+        "Season": 0,
+        "String": "Ammo Knights Regular"
+    },
+    "0312": {
+        "HowToGet": "Shop",
+        "Id": "0312",
+        "Season": 0,
+        "String": "Man-o'-Wardrobe Regular"
+    },
+    "0313": {
+        "HowToGet": "Shop",
+        "Id": "0313",
+        "Season": 0,
+        "String": "Marie Fan"
+    },
+    "0314": {
+        "HowToGet": "Shop",
+        "Id": "0314",
+        "Season": 0,
+        "String": "Big Man Fan"
+    },
+    "0315": {
+        "HowToGet": "Shop",
+        "Id": "0315",
+        "Season": 0,
+        "String": "Clam Blitz Enthusiast"
+    },
+    "0316": {
+        "HowToGet": "Shop",
+        "Id": "0316",
+        "Season": 0,
+        "String": "Splat Zones Enthusiast"
+    },
+    "0317": {
+        "HowToGet": "Shop",
+        "Id": "0317",
+        "Season": 0,
+        "String": "Rainmaker Enthusiast"
+    },
+    "0318": {
+        "HowToGet": "Shop",
+        "Id": "0318",
+        "Season": 0,
+        "String": "Tower Control Enthusiast"
+    },
+    "0337": {
+        "HowToGet": "Shop",
+        "Id": "0337",
+        "Season": 0,
+        "String": "Hat Model"
+    },
+    "0376": {
+        "HowToGet": "Shop",
+        "Id": "0376",
+        "Season": 1,
+        "String": "Bro"
+    },
+    "0338": {
+        "HowToGet": "Shop",
+        "Id": "0338",
+        "Season": 0,
+        "String": "Glasses Model"
+    },
+    "0340": {
+        "HowToGet": "Shop",
+        "Id": "0340",
+        "Season": 0,
+        "String": "Card Collector"
+    },
+    "0360": {
+        "HowToGet": "Shop",
+        "Id": "0360",
+        "Season": 0,
+        "String": "Artist"
+    },
+    "0361": {
+        "HowToGet": "Shop",
+        "Id": "0361",
+        "Season": 0,
+        "String": "Pop Star"
+    },
+    "0362": {
+        "HowToGet": "Shop",
+        "Id": "0362",
+        "Season": 0,
+        "String": "Clock Puncher"
+    },
+    "0363": {
+        "HowToGet": "Shop",
+        "Id": "0363",
+        "Season": 0,
+        "String": "Eel Tamer"
+    },
+    "0364": {
+        "HowToGet": "Shop",
+        "Id": "0364",
+        "Season": 0,
+        "String": "Shark Tamer"
+    },
+    "0365": {
+        "HowToGet": "Shop",
+        "Id": "0365",
+        "Season": 0,
+        "String": "Clerk"
+    },
+    "0359": {
+        "HowToGet": "Shop",
+        "Id": "0359",
+        "Season": 0,
+        "String": "Mammal"
+    },
+    "0366": {
+        "HowToGet": "Shop",
+        "Id": "0366",
+        "Season": 0,
+        "String": "Office Drone"
+    },
+    "0368": {
+        "HowToGet": "Shop",
+        "Id": "0368",
+        "Season": 0,
+        "String": "Champ"
+    },
+    "0369": {
+        "HowToGet": "Shop",
+        "Id": "0369",
+        "Season": 0,
+        "String": "Bass Dropper"
+    },
+    "0371": {
+        "HowToGet": "Shop",
+        "Id": "0371",
+        "Season": 1,
+        "String": "Prince"
+    },
+    "0372": {
+        "HowToGet": "Shop",
+        "Id": "0372",
+        "Season": 1,
+        "String": "Brother"
+    },
+    "0373": {
+        "HowToGet": "Shop",
+        "Id": "0373",
+        "Season": 1,
+        "String": "City Boy"
+    },
+    "0374": {
+        "HowToGet": "Shop",
+        "Id": "0374",
+        "Season": 1,
+        "String": "Groom"
+    },
+    "0367": {
+        "HowToGet": "Shop",
+        "Id": "0367",
+        "Season": 0,
+        "String": "Ringleader"
+    },
+    "0358": {
+        "HowToGet": "Shop",
+        "Id": "0358",
+        "Season": 0,
+        "String": "Sea Creature"
+    },
+    "0357": {
+        "HowToGet": "Shop",
+        "Id": "0357",
+        "Season": 0,
+        "String": "Human"
+    },
+    "0356": {
+        "HowToGet": "Shop",
+        "Id": "0356",
+        "Season": 0,
+        "String": "Jellyfish"
+    },
+    "0341": {
+        "HowToGet": "Shop",
+        "Id": "0341",
+        "Season": 0,
+        "String": "Item Collector"
+    },
+    "0342": {
+        "HowToGet": "Shop",
+        "Id": "0342",
+        "Season": 0,
+        "String": "Fashionista"
+    },
+    "0343": {
+        "HowToGet": "Shop",
+        "Id": "0343",
+        "Season": 0,
+        "String": "Locker Rock Star"
+    },
+    "0344": {
+        "HowToGet": "Shop",
+        "Id": "0344",
+        "Season": 0,
+        "String": "Squid Surger"
+    },
+    "0345": {
+        "HowToGet": "Shop",
+        "Id": "0345",
+        "Season": 0,
+        "String": "Squid Roller"
+    },
+    "0346": {
+        "HowToGet": "Shop",
+        "Id": "0346",
+        "Season": 0,
+        "String": "All-Arounder"
+    },
+    "0347": {
+        "HowToGet": "Shop",
+        "Id": "0347",
+        "Season": 0,
+        "String": "Jumper"
+    },
+    "0348": {
+        "HowToGet": "Shop",
+        "Id": "0348",
+        "Season": 0,
+        "String": "Dodge Roller"
+    },
+    "0349": {
+        "HowToGet": "Shop",
+        "Id": "0349",
+        "Season": 0,
+        "String": "Slow Starter"
+    },
+    "0350": {
+        "HowToGet": "Shop",
+        "Id": "0350",
+        "Season": 0,
+        "String": "Splat Bomber"
+    },
+    "0351": {
+        "HowToGet": "Shop",
+        "Id": "0351",
+        "Season": 0,
+        "String": "Guardian"
+    },
+    "0352": {
+        "HowToGet": "Shop",
+        "Id": "0352",
+        "Season": 0,
+        "String": "Raider"
+    },
+    "0353": {
+        "HowToGet": "Shop",
+        "Id": "0353",
+        "Season": 0,
+        "String": "Manta Ray"
+    },
+    "0354": {
+        "HowToGet": "Shop",
+        "Id": "0354",
+        "Season": 0,
+        "String": "Octarian"
+    },
+    "0355": {
+        "HowToGet": "Shop",
+        "Id": "0355",
+        "Season": 0,
+        "String": "Bear"
+    },
+    "0339": {
+        "HowToGet": "Shop",
+        "Id": "0339",
+        "Season": 0,
+        "String": "Boot Model"
+    }
+}

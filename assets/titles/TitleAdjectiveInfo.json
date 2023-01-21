@@ -1,0 +1,3404 @@
+{
+    "0000": {
+        "HowToGet": "Shop",
+        "Id": "0000",
+        "Season": 0,
+        "String": "Scorch Gorge"
+    },
+    "0533": {
+        "HowToGet": "Shop",
+        "Id": "0533",
+        "Season": 1,
+        "String": "Wild"
+    },
+    "0534": {
+        "HowToGet": "Shop",
+        "Id": "0534",
+        "Season": 1,
+        "String": "A Real"
+    },
+    "0535": {
+        "HowToGet": "Shop",
+        "Id": "0535",
+        "Season": 1,
+        "String": "Lucky"
+    },
+    "0537": {
+        "HowToGet": "Shop",
+        "Id": "0537",
+        "Season": 1,
+        "String": "Seasoned"
+    },
+    "0539": {
+        "HowToGet": "Shop",
+        "Id": "0539",
+        "Season": 1,
+        "String": "Soft-and-Fluffy"
+    },
+    "0540": {
+        "HowToGet": "Shop",
+        "Id": "0540",
+        "Season": 1,
+        "String": "100%"
+    },
+    "0532": {
+        "HowToGet": "Shop",
+        "Id": "0532",
+        "Season": 1,
+        "String": "Junior-Grade"
+    },
+    "0541": {
+        "HowToGet": "Shop",
+        "Id": "0541",
+        "Season": 1,
+        "String": "Veggie-Lovin'"
+    },
+    "0543": {
+        "HowToGet": "Shop",
+        "Id": "0543",
+        "Season": 1,
+        "String": "Modern"
+    },
+    "0546": {
+        "HowToGet": "Shop",
+        "Id": "0546",
+        "Season": 1,
+        "String": "Lost-and-Found"
+    },
+    "0547": {
+        "HowToGet": "Shop",
+        "Id": "0547",
+        "Season": 1,
+        "String": "Won't-Lose"
+    },
+    "0548": {
+        "HowToGet": "Shop",
+        "Id": "0548",
+        "Season": 1,
+        "String": "Auspicious"
+    },
+    "0549": {
+        "HowToGet": "Shop",
+        "Id": "0549",
+        "Season": 1,
+        "String": "Innocent"
+    },
+    "0551": {
+        "HowToGet": "Shop",
+        "Id": "0551",
+        "Season": 1,
+        "String": "Miraculous"
+    },
+    "0542": {
+        "HowToGet": "Shop",
+        "Id": "0542",
+        "Season": 1,
+        "String": "Fluffy"
+    },
+    "0529": {
+        "HowToGet": "Shop",
+        "Id": "0529",
+        "Season": 1,
+        "String": "Otherworldly"
+    },
+    "0527": {
+        "HowToGet": "Shop",
+        "Id": "0527",
+        "Season": 1,
+        "String": "Mostly"
+    },
+    "0526": {
+        "HowToGet": "Shop",
+        "Id": "0526",
+        "Season": 1,
+        "String": "24-Hour"
+    },
+    "0502": {
+        "HowToGet": "Shop",
+        "Id": "0502",
+        "Season": 1,
+        "String": "Sweet"
+    },
+    "0503": {
+        "HowToGet": "Shop",
+        "Id": "0503",
+        "Season": 1,
+        "String": "Sentimental"
+    },
+    "0504": {
+        "HowToGet": "Shop",
+        "Id": "0504",
+        "Season": 1,
+        "String": "Sandy"
+    },
+    "0505": {
+        "HowToGet": "Shop",
+        "Id": "0505",
+        "Season": 1,
+        "String": "Overheated"
+    },
+    "0507": {
+        "HowToGet": "Shop",
+        "Id": "0507",
+        "Season": 1,
+        "String": "Catch-of-the-Day"
+    },
+    "0508": {
+        "HowToGet": "Shop",
+        "Id": "0508",
+        "Season": 1,
+        "String": "Pool-Ready"
+    },
+    "0510": {
+        "HowToGet": "Shop",
+        "Id": "0510",
+        "Season": 1,
+        "String": "Anachronistic"
+    },
+    "0513": {
+        "HowToGet": "Shop",
+        "Id": "0513",
+        "Season": 1,
+        "String": "Supersonic"
+    },
+    "0517": {
+        "HowToGet": "Shop",
+        "Id": "0517",
+        "Season": 1,
+        "String": "Lovely"
+    },
+    "0518": {
+        "HowToGet": "Shop",
+        "Id": "0518",
+        "Season": 1,
+        "String": "Movie-Lovin'"
+    },
+    "0520": {
+        "HowToGet": "Shop",
+        "Id": "0520",
+        "Season": 1,
+        "String": "Shadowy"
+    },
+    "0521": {
+        "HowToGet": "Shop",
+        "Id": "0521",
+        "Season": 1,
+        "String": "Fated"
+    },
+    "0522": {
+        "HowToGet": "Shop",
+        "Id": "0522",
+        "Season": 1,
+        "String": "Cosmic"
+    },
+    "0524": {
+        "HowToGet": "Shop",
+        "Id": "0524",
+        "Season": 1,
+        "String": "Zipped-Lips"
+    },
+    "0525": {
+        "HowToGet": "Shop",
+        "Id": "0525",
+        "Season": 1,
+        "String": "Gone-Fishin'"
+    },
+    "0552": {
+        "HowToGet": "Shop",
+        "Id": "0552",
+        "Season": 1,
+        "String": "Poser"
+    },
+    "0501": {
+        "HowToGet": "Shop",
+        "Id": "0501",
+        "Season": 1,
+        "String": "Unarmed"
+    },
+    "0553": {
+        "HowToGet": "Shop",
+        "Id": "0553",
+        "Season": 1,
+        "String": "Comic-Lovin'"
+    },
+    "0556": {
+        "HowToGet": "Shop",
+        "Id": "0556",
+        "Season": 1,
+        "String": "Light"
+    },
+    "0580": {
+        "HowToGet": "Shop",
+        "Id": "0580",
+        "Season": 1,
+        "String": "Strict"
+    },
+    "0581": {
+        "HowToGet": "Shop",
+        "Id": "0581",
+        "Season": 1,
+        "String": "Slippery"
+    },
+    "0582": {
+        "HowToGet": "Shop",
+        "Id": "0582",
+        "Season": 1,
+        "String": "Painted"
+    },
+    "0584": {
+        "HowToGet": "Shop",
+        "Id": "0584",
+        "Season": 1,
+        "String": "Climactic"
+    },
+    "0586": {
+        "HowToGet": "Shop",
+        "Id": "0586",
+        "Season": 1,
+        "String": "Nameless"
+    },
+    "0587": {
+        "HowToGet": "Shop",
+        "Id": "0587",
+        "Season": 1,
+        "String": "Nice"
+    },
+    "0579": {
+        "HowToGet": "Shop",
+        "Id": "0579",
+        "Season": 1,
+        "String": "Swoon-Worthy"
+    },
+    "0588": {
+        "HowToGet": "Shop",
+        "Id": "0588",
+        "Season": 1,
+        "String": "Muddy"
+    },
+    "0591": {
+        "HowToGet": "Shop",
+        "Id": "0591",
+        "Season": 1,
+        "String": "Tidy"
+    },
+    "0592": {
+        "HowToGet": "Shop",
+        "Id": "0592",
+        "Season": 1,
+        "String": "Barbed"
+    },
+    "0593": {
+        "HowToGet": "Shop",
+        "Id": "0593",
+        "Season": 1,
+        "String": "Pointy"
+    },
+    "0594": {
+        "HowToGet": "Shop",
+        "Id": "0594",
+        "Season": 1,
+        "String": "Big Honkin'"
+    },
+    "0595": {
+        "HowToGet": "Shop",
+        "Id": "0595",
+        "Season": 1,
+        "String": "Smooth"
+    },
+    "0596": {
+        "HowToGet": "Shop",
+        "Id": "0596",
+        "Season": 1,
+        "String": "Iced"
+    },
+    "0589": {
+        "HowToGet": "Shop",
+        "Id": "0589",
+        "Season": 1,
+        "String": "Neighborly"
+    },
+    "0578": {
+        "HowToGet": "Shop",
+        "Id": "0578",
+        "Season": 1,
+        "String": "Designer-Label"
+    },
+    "0577": {
+        "HowToGet": "Shop",
+        "Id": "0577",
+        "Season": 1,
+        "String": "Bursting"
+    },
+    "0576": {
+        "HowToGet": "Shop",
+        "Id": "0576",
+        "Season": 1,
+        "String": "Fame-Seeking"
+    },
+    "0557": {
+        "HowToGet": "Shop",
+        "Id": "0557",
+        "Season": 1,
+        "String": "Bomb-tastic"
+    },
+    "0559": {
+        "HowToGet": "Shop",
+        "Id": "0559",
+        "Season": 1,
+        "String": "Fluttering"
+    },
+    "0560": {
+        "HowToGet": "Shop",
+        "Id": "0560",
+        "Season": 1,
+        "String": "Buoyant"
+    },
+    "0562": {
+        "HowToGet": "Shop",
+        "Id": "0562",
+        "Season": 1,
+        "String": "Wibbly-Wobbly"
+    },
+    "0563": {
+        "HowToGet": "Shop",
+        "Id": "0563",
+        "Season": 1,
+        "String": "Fruit-Lovin'"
+    },
+    "0564": {
+        "HowToGet": "Shop",
+        "Id": "0564",
+        "Season": 1,
+        "String": "Dark"
+    },
+    "0565": {
+        "HowToGet": "Shop",
+        "Id": "0565",
+        "Season": 1,
+        "String": "Fragrant"
+    },
+    "0566": {
+        "HowToGet": "Shop",
+        "Id": "0566",
+        "Season": 1,
+        "String": "Fashionable"
+    },
+    "0568": {
+        "HowToGet": "Shop",
+        "Id": "0568",
+        "Season": 1,
+        "String": "Big-Time"
+    },
+    "0569": {
+        "HowToGet": "Shop",
+        "Id": "0569",
+        "Season": 1,
+        "String": "Drenched"
+    },
+    "0570": {
+        "HowToGet": "Shop",
+        "Id": "0570",
+        "Season": 1,
+        "String": "Bearded"
+    },
+    "0571": {
+        "HowToGet": "Shop",
+        "Id": "0571",
+        "Season": 1,
+        "String": "Frosty"
+    },
+    "0572": {
+        "HowToGet": "Shop",
+        "Id": "0572",
+        "Season": 1,
+        "String": "Incredible"
+    },
+    "0573": {
+        "HowToGet": "Shop",
+        "Id": "0573",
+        "Season": 1,
+        "String": "Faraway"
+    },
+    "0574": {
+        "HowToGet": "Shop",
+        "Id": "0574",
+        "Season": 1,
+        "String": "Flashy"
+    },
+    "0554": {
+        "HowToGet": "Shop",
+        "Id": "0554",
+        "Season": 1,
+        "String": "Vulnerable"
+    },
+    "0499": {
+        "HowToGet": "Shop",
+        "Id": "0499",
+        "Season": 1,
+        "String": "Heartfelt"
+    },
+    "0497": {
+        "HowToGet": "Shop",
+        "Id": "0497",
+        "Season": 1,
+        "String": "Forgetful"
+    },
+    "0495": {
+        "HowToGet": "Shop",
+        "Id": "0495",
+        "Season": 1,
+        "String": "Shining"
+    },
+    "0424": {
+        "HowToGet": "Shop",
+        "Id": "0424",
+        "Season": 1,
+        "String": "Pitch-Black"
+    },
+    "0425": {
+        "HowToGet": "Shop",
+        "Id": "0425",
+        "Season": 1,
+        "String": "Woodsy"
+    },
+    "0426": {
+        "HowToGet": "Shop",
+        "Id": "0426",
+        "Season": 1,
+        "String": "Next-Generation"
+    },
+    "0428": {
+        "HowToGet": "Shop",
+        "Id": "0428",
+        "Season": 1,
+        "String": "Novice"
+    },
+    "0429": {
+        "HowToGet": "Shop",
+        "Id": "0429",
+        "Season": 1,
+        "String": "Sensational"
+    },
+    "0431": {
+        "HowToGet": "Shop",
+        "Id": "0431",
+        "Season": 1,
+        "String": "Dead-Tired"
+    },
+    "0423": {
+        "HowToGet": "Shop",
+        "Id": "0423",
+        "Season": 1,
+        "String": "Bright-Blue"
+    },
+    "0432": {
+        "HowToGet": "Shop",
+        "Id": "0432",
+        "Season": 1,
+        "String": "Dazzling"
+    },
+    "0436": {
+        "HowToGet": "Shop",
+        "Id": "0436",
+        "Season": 1,
+        "String": "Little"
+    },
+    "0437": {
+        "HowToGet": "Shop",
+        "Id": "0437",
+        "Season": 1,
+        "String": "Third-Eye-Opened"
+    },
+    "0438": {
+        "HowToGet": "Shop",
+        "Id": "0438",
+        "Season": 1,
+        "String": "Early-Summer"
+    },
+    "0439": {
+        "HowToGet": "Shop",
+        "Id": "0439",
+        "Season": 1,
+        "String": "Alabaster"
+    },
+    "0440": {
+        "HowToGet": "Shop",
+        "Id": "0440",
+        "Season": 1,
+        "String": "Pure"
+    },
+    "0441": {
+        "HowToGet": "Shop",
+        "Id": "0441",
+        "Season": 1,
+        "String": "Grown-Up"
+    },
+    "0433": {
+        "HowToGet": "Shop",
+        "Id": "0433",
+        "Season": 1,
+        "String": "Tagalong"
+    },
+    "0422": {
+        "HowToGet": "Shop",
+        "Id": "0422",
+        "Season": 1,
+        "String": "Deep-Red"
+    },
+    "0421": {
+        "HowToGet": "Shop",
+        "Id": "0421",
+        "Season": 1,
+        "String": "Stark-White"
+    },
+    "0420": {
+        "HowToGet": "Shop",
+        "Id": "0420",
+        "Season": 1,
+        "String": "Midnight"
+    },
+    "0400": {
+        "HowToGet": "Shop",
+        "Id": "0400",
+        "Season": 1,
+        "String": "Unblemished"
+    },
+    "0402": {
+        "HowToGet": "Shop",
+        "Id": "0402",
+        "Season": 1,
+        "String": "Fightin'"
+    },
+    "0403": {
+        "HowToGet": "Shop",
+        "Id": "0403",
+        "Season": 1,
+        "String": "Front-Line"
+    },
+    "0404": {
+        "HowToGet": "Shop",
+        "Id": "0404",
+        "Season": 1,
+        "String": "Endangered"
+    },
+    "0405": {
+        "HowToGet": "Shop",
+        "Id": "0405",
+        "Season": 1,
+        "String": "Persistent"
+    },
+    "0406": {
+        "HowToGet": "Shop",
+        "Id": "0406",
+        "Season": 1,
+        "String": "Sacred"
+    },
+    "0408": {
+        "HowToGet": "Shop",
+        "Id": "0408",
+        "Season": 1,
+        "String": "Local"
+    },
+    "0411": {
+        "HowToGet": "Shop",
+        "Id": "0411",
+        "Season": 1,
+        "String": "Turn-of-the-Century"
+    },
+    "0412": {
+        "HowToGet": "Shop",
+        "Id": "0412",
+        "Season": 1,
+        "String": "This Century's Best"
+    },
+    "0414": {
+        "HowToGet": "Shop",
+        "Id": "0414",
+        "Season": 1,
+        "String": "Aquarium-Bound"
+    },
+    "0415": {
+        "HowToGet": "Shop",
+        "Id": "0415",
+        "Season": 1,
+        "String": "Fan-Favorite"
+    },
+    "0416": {
+        "HowToGet": "Shop",
+        "Id": "0416",
+        "Season": 1,
+        "String": "Rising"
+    },
+    "0417": {
+        "HowToGet": "Shop",
+        "Id": "0417",
+        "Season": 1,
+        "String": "Spicy"
+    },
+    "0418": {
+        "HowToGet": "Shop",
+        "Id": "0418",
+        "Season": 1,
+        "String": "Lightning-Fast"
+    },
+    "0419": {
+        "HowToGet": "Shop",
+        "Id": "0419",
+        "Season": 1,
+        "String": "Awe-Inspiring"
+    },
+    "0442": {
+        "HowToGet": "Shop",
+        "Id": "0442",
+        "Season": 1,
+        "String": "Partying"
+    },
+    "0443": {
+        "HowToGet": "Shop",
+        "Id": "0443",
+        "Season": 1,
+        "String": "Dapper"
+    },
+    "0444": {
+        "HowToGet": "Shop",
+        "Id": "0444",
+        "Season": 1,
+        "String": "Evil"
+    },
+    "0445": {
+        "HowToGet": "Shop",
+        "Id": "0445",
+        "Season": 1,
+        "String": "Jet-Black"
+    },
+    "0470": {
+        "HowToGet": "Shop",
+        "Id": "0470",
+        "Season": 1,
+        "String": "Ever-Present"
+    },
+    "0471": {
+        "HowToGet": "Shop",
+        "Id": "0471",
+        "Season": 1,
+        "String": "Booming"
+    },
+    "0473": {
+        "HowToGet": "Shop",
+        "Id": "0473",
+        "Season": 1,
+        "String": "Crimson"
+    },
+    "0474": {
+        "HowToGet": "Shop",
+        "Id": "0474",
+        "Season": 1,
+        "String": "Steady"
+    },
+    "0476": {
+        "HowToGet": "Shop",
+        "Id": "0476",
+        "Season": 1,
+        "String": "Nosy"
+    },
+    "0477": {
+        "HowToGet": "Shop",
+        "Id": "0477",
+        "Season": 1,
+        "String": "Enlightened"
+    },
+    "0480": {
+        "HowToGet": "Shop",
+        "Id": "0480",
+        "Season": 1,
+        "String": "Aloof"
+    },
+    "0484": {
+        "HowToGet": "Shop",
+        "Id": "0484",
+        "Season": 1,
+        "String": "Hearty"
+    },
+    "0485": {
+        "HowToGet": "Shop",
+        "Id": "0485",
+        "Season": 1,
+        "String": "Artsy"
+    },
+    "0486": {
+        "HowToGet": "Shop",
+        "Id": "0486",
+        "Season": 1,
+        "String": "Flying"
+    },
+    "0488": {
+        "HowToGet": "Shop",
+        "Id": "0488",
+        "Season": 1,
+        "String": "Die-Hard"
+    },
+    "0490": {
+        "HowToGet": "Shop",
+        "Id": "0490",
+        "Season": 1,
+        "String": "Fortunate"
+    },
+    "0492": {
+        "HowToGet": "Shop",
+        "Id": "0492",
+        "Season": 1,
+        "String": "Last Year's"
+    },
+    "0493": {
+        "HowToGet": "Shop",
+        "Id": "0493",
+        "Season": 1,
+        "String": "The True Ultimate"
+    },
+    "0494": {
+        "HowToGet": "Shop",
+        "Id": "0494",
+        "Season": 1,
+        "String": "Impish"
+    },
+    "0469": {
+        "HowToGet": "Shop",
+        "Id": "0469",
+        "Season": 1,
+        "String": "Limited-Edition"
+    },
+    "0598": {
+        "HowToGet": "Shop",
+        "Id": "0598",
+        "Season": 1,
+        "String": "Occasional"
+    },
+    "0468": {
+        "HowToGet": "Shop",
+        "Id": "0468",
+        "Season": 1,
+        "String": "This Year's"
+    },
+    "0465": {
+        "HowToGet": "Shop",
+        "Id": "0465",
+        "Season": 1,
+        "String": "The Very First"
+    },
+    "0447": {
+        "HowToGet": "Shop",
+        "Id": "0447",
+        "Season": 1,
+        "String": "Vindictive"
+    },
+    "0449": {
+        "HowToGet": "Shop",
+        "Id": "0449",
+        "Season": 1,
+        "String": "Self-Proclaimed"
+    },
+    "0450": {
+        "HowToGet": "Shop",
+        "Id": "0450",
+        "Season": 1,
+        "String": "Selfie-Snapping"
+    },
+    "0451": {
+        "HowToGet": "Shop",
+        "Id": "0451",
+        "Season": 1,
+        "String": "Eternity's"
+    },
+    "0452": {
+        "HowToGet": "Shop",
+        "Id": "0452",
+        "Season": 1,
+        "String": "Self-Identified"
+    },
+    "0454": {
+        "HowToGet": "Shop",
+        "Id": "0454",
+        "Season": 1,
+        "String": "Childish"
+    },
+    "0455": {
+        "HowToGet": "Shop",
+        "Id": "0455",
+        "Season": 1,
+        "String": "Job-Lovin'"
+    },
+    "0457": {
+        "HowToGet": "Shop",
+        "Id": "0457",
+        "Season": 1,
+        "String": "Late-Summer"
+    },
+    "0458": {
+        "HowToGet": "Shop",
+        "Id": "0458",
+        "Season": 1,
+        "String": "Cutting-Edge"
+    },
+    "0459": {
+        "HowToGet": "Shop",
+        "Id": "0459",
+        "Season": 1,
+        "String": "Mountain-Dwelling"
+    },
+    "0460": {
+        "HowToGet": "Shop",
+        "Id": "0460",
+        "Season": 1,
+        "String": "Picture-Taking"
+    },
+    "0461": {
+        "HowToGet": "Shop",
+        "Id": "0461",
+        "Season": 1,
+        "String": "Yesterday's"
+    },
+    "0462": {
+        "HowToGet": "Shop",
+        "Id": "0462",
+        "Season": 1,
+        "String": "Graceful"
+    },
+    "0463": {
+        "HowToGet": "Shop",
+        "Id": "0463",
+        "Season": 1,
+        "String": "First-Wave"
+    },
+    "0464": {
+        "HowToGet": "Shop",
+        "Id": "0464",
+        "Season": 1,
+        "String": "All-New"
+    },
+    "0466": {
+        "HowToGet": "Shop",
+        "Id": "0466",
+        "Season": 1,
+        "String": "The Final"
+    },
+    "0399": {
+        "HowToGet": "Shop",
+        "Id": "0399",
+        "Season": 1,
+        "String": "Seasick"
+    },
+    "0599": {
+        "HowToGet": "Shop",
+        "Id": "0599",
+        "Season": 1,
+        "String": "Just Another"
+    },
+    "0601": {
+        "HowToGet": "Shop",
+        "Id": "0601",
+        "Season": 1,
+        "String": "Diving"
+    },
+    "0710": {
+        "HowToGet": "Shop",
+        "Id": "0710",
+        "Season": 1,
+        "String": "Grunge"
+    },
+    "0714": {
+        "HowToGet": "Shop",
+        "Id": "0714",
+        "Season": 1,
+        "String": "Hip-Hop"
+    },
+    "0716": {
+        "HowToGet": "Shop",
+        "Id": "0716",
+        "Season": 1,
+        "String": "Thunderous"
+    },
+    "0717": {
+        "HowToGet": "Shop",
+        "Id": "0717",
+        "Season": 1,
+        "String": "Turbo"
+    },
+    "0718": {
+        "HowToGet": "Shop",
+        "Id": "0718",
+        "Season": 1,
+        "String": "Wizened"
+    },
+    "0719": {
+        "HowToGet": "Shop",
+        "Id": "0719",
+        "Season": 1,
+        "String": "Today's"
+    },
+    "0709": {
+        "HowToGet": "Shop",
+        "Id": "0709",
+        "Season": 1,
+        "String": "Bohemian"
+    },
+    "0720": {
+        "HowToGet": "Shop",
+        "Id": "0720",
+        "Season": 1,
+        "String": "Virtual"
+    },
+    "0722": {
+        "HowToGet": "Shop",
+        "Id": "0722",
+        "Season": 1,
+        "String": "Microscopic"
+    },
+    "2002": {
+        "HowToGet": "Catalog",
+        "Id": "2002",
+        "Season": 2,
+        "String": "Monochrome"
+    },
+    "2003": {
+        "HowToGet": "Catalog",
+        "Id": "2003",
+        "Season": 2,
+        "String": "Long-Sleeved"
+    },
+    "0721": {
+        "HowToGet": "Shop",
+        "Id": "0721",
+        "Season": 1,
+        "String": "Half"
+    },
+    "0708": {
+        "HowToGet": "Shop",
+        "Id": "0708",
+        "Season": 1,
+        "String": "Vintage"
+    },
+    "0707": {
+        "HowToGet": "Shop",
+        "Id": "0707",
+        "Season": 1,
+        "String": "Glam"
+    },
+    "0705": {
+        "HowToGet": "Shop",
+        "Id": "0705",
+        "Season": 1,
+        "String": "Breakin'"
+    },
+    "0690": {
+        "HowToGet": "Shop",
+        "Id": "0690",
+        "Season": 1,
+        "String": "Snowy"
+    },
+    "0691": {
+        "HowToGet": "Shop",
+        "Id": "0691",
+        "Season": 1,
+        "String": "Seaside"
+    },
+    "0692": {
+        "HowToGet": "Shop",
+        "Id": "0692",
+        "Season": 1,
+        "String": "Big-Sky"
+    },
+    "0693": {
+        "HowToGet": "Shop",
+        "Id": "0693",
+        "Season": 1,
+        "String": "Dry"
+    },
+    "0694": {
+        "HowToGet": "Shop",
+        "Id": "0694",
+        "Season": 1,
+        "String": "Raw"
+    },
+    "0695": {
+        "HowToGet": "Shop",
+        "Id": "0695",
+        "Season": 1,
+        "String": "Awesome"
+    },
+    "0696": {
+        "HowToGet": "Shop",
+        "Id": "0696",
+        "Season": 1,
+        "String": "SUPERFRESH"
+    },
+    "0697": {
+        "HowToGet": "Shop",
+        "Id": "0697",
+        "Season": 1,
+        "String": "Splatoon"
+    },
+    "0698": {
+        "HowToGet": "Shop",
+        "Id": "0698",
+        "Season": 1,
+        "String": "Avant-Garde"
+    },
+    "0699": {
+        "HowToGet": "Shop",
+        "Id": "0699",
+        "Season": 1,
+        "String": "Punk"
+    },
+    "0700": {
+        "HowToGet": "Shop",
+        "Id": "0700",
+        "Season": 1,
+        "String": "Mod"
+    },
+    "0701": {
+        "HowToGet": "Shop",
+        "Id": "0701",
+        "Season": 1,
+        "String": "Goth"
+    },
+    "0702": {
+        "HowToGet": "Shop",
+        "Id": "0702",
+        "Season": 1,
+        "String": "Rockabilly"
+    },
+    "0703": {
+        "HowToGet": "Shop",
+        "Id": "0703",
+        "Season": 1,
+        "String": "Casual"
+    },
+    "0704": {
+        "HowToGet": "Shop",
+        "Id": "0704",
+        "Season": 1,
+        "String": "Sporty"
+    },
+    "0689": {
+        "HowToGet": "Shop",
+        "Id": "0689",
+        "Season": 1,
+        "String": "Badlands"
+    },
+    "3006": {
+        "HowToGet": "Shop",
+        "Id": "3006",
+        "Season": 0,
+        "String": "South Atlantic"
+    },
+    "3007": {
+        "HowToGet": "Shop",
+        "Id": "3007",
+        "Season": 0,
+        "String": "South Pacific"
+    },
+    "3008": {
+        "HowToGet": "Shop",
+        "Id": "3008",
+        "Season": 0,
+        "String": "The Shoal's Own"
+    },
+    "3009": {
+        "HowToGet": "Shop",
+        "Id": "3009",
+        "Season": 0,
+        "String": "Official-Grizzco"
+    },
+    "3010": {
+        "HowToGet": "Shop",
+        "Id": "3010",
+        "Season": 0,
+        "String": "The Crater's"
+    },
+    "3011": {
+        "HowToGet": "Shop",
+        "Id": "3011",
+        "Season": 0,
+        "String": "The City's Own"
+    },
+    "3005": {
+        "HowToGet": "Shop",
+        "Id": "3005",
+        "Season": 0,
+        "String": "Arctic Ocean"
+    },
+    "3012": {
+        "HowToGet": "Shop",
+        "Id": "3012",
+        "Season": 0,
+        "String": "Lobby-Bound"
+    },
+    "3014": {
+        "HowToGet": "Shop",
+        "Id": "3014",
+        "Season": 0,
+        "String": "Chaotic"
+    },
+    "3015": {
+        "HowToGet": "Shop",
+        "Id": "3015",
+        "Season": 1,
+        "String": "Midsummer"
+    },
+    "3100": {
+        "HowToGet": "Other",
+        "Id": "3100",
+        "Season": 0,
+        "String": "Alternan"
+    },
+    "3200": {
+        "HowToGet": "Other",
+        "Id": "3200",
+        "Season": 0,
+        "String": "Fun"
+    },
+    "3201": {
+        "HowToGet": "Other",
+        "Id": "3201",
+        "Season": 0,
+        "String": "The Strongest"
+    },
+    "3300": {
+        "HowToGet": "Other",
+        "Id": "3300",
+        "Season": 0,
+        "String": "Crusty"
+    },
+    "3013": {
+        "HowToGet": "Shop",
+        "Id": "3013",
+        "Season": 0,
+        "String": "Third-Gen"
+    },
+    "3004": {
+        "HowToGet": "Shop",
+        "Id": "3004",
+        "Season": 0,
+        "String": "Antarctic Ocean"
+    },
+    "3003": {
+        "HowToGet": "Shop",
+        "Id": "3003",
+        "Season": 0,
+        "String": "North Pacific"
+    },
+    "3002": {
+        "HowToGet": "Shop",
+        "Id": "3002",
+        "Season": 0,
+        "String": "North Atlantic"
+    },
+    "2500": {
+        "HowToGet": "Other",
+        "Id": "2500",
+        "Season": 0,
+        "String": "Super-Duper Lucky"
+    },
+    "2501": {
+        "HowToGet": "Other",
+        "Id": "2501",
+        "Season": 2,
+        "String": "Super-Rare"
+    },
+    "3000": {
+        "HowToGet": "Shop",
+        "Id": "3000",
+        "Season": 0,
+        "String": "Splatlandian"
+    },
+    "3001": {
+        "HowToGet": "Shop",
+        "Id": "3001",
+        "Season": 0,
+        "String": "Indian Ocean"
+    },
+    "0688": {
+        "HowToGet": "Shop",
+        "Id": "0688",
+        "Season": 1,
+        "String": "DJ"
+    },
+    "0687": {
+        "HowToGet": "Shop",
+        "Id": "0687",
+        "Season": 1,
+        "String": "Roaming"
+    },
+    "0686": {
+        "HowToGet": "Shop",
+        "Id": "0686",
+        "Season": 1,
+        "String": "The Best"
+    },
+    "0626": {
+        "HowToGet": "Shop",
+        "Id": "0626",
+        "Season": 1,
+        "String": "Sparkling"
+    },
+    "0627": {
+        "HowToGet": "Shop",
+        "Id": "0627",
+        "Season": 1,
+        "String": "Gigantified"
+    },
+    "0629": {
+        "HowToGet": "Shop",
+        "Id": "0629",
+        "Season": 1,
+        "String": "Camera-Facing"
+    },
+    "0630": {
+        "HowToGet": "Shop",
+        "Id": "0630",
+        "Season": 1,
+        "String": "Clockwork"
+    },
+    "0631": {
+        "HowToGet": "Shop",
+        "Id": "0631",
+        "Season": 1,
+        "String": "Solid"
+    },
+    "0632": {
+        "HowToGet": "Shop",
+        "Id": "0632",
+        "Season": 1,
+        "String": "Fully"
+    },
+    "0625": {
+        "HowToGet": "Shop",
+        "Id": "0625",
+        "Season": 1,
+        "String": "Glistening"
+    },
+    "0633": {
+        "HowToGet": "Shop",
+        "Id": "0633",
+        "Season": 1,
+        "String": "Unperceived"
+    },
+    "0635": {
+        "HowToGet": "Shop",
+        "Id": "0635",
+        "Season": 1,
+        "String": "Homebound"
+    },
+    "0636": {
+        "HowToGet": "Shop",
+        "Id": "0636",
+        "Season": 1,
+        "String": "Fish-Lovin'"
+    },
+    "0638": {
+        "HowToGet": "Shop",
+        "Id": "0638",
+        "Season": 1,
+        "String": "Sketching"
+    },
+    "0639": {
+        "HowToGet": "Shop",
+        "Id": "0639",
+        "Season": 1,
+        "String": "Precocious"
+    },
+    "0640": {
+        "HowToGet": "Shop",
+        "Id": "0640",
+        "Season": 1,
+        "String": "Easy-Peasy"
+    },
+    "0642": {
+        "HowToGet": "Shop",
+        "Id": "0642",
+        "Season": 1,
+        "String": "Made-to-Order"
+    },
+    "0634": {
+        "HowToGet": "Shop",
+        "Id": "0634",
+        "Season": 1,
+        "String": "Carnivorous"
+    },
+    "0624": {
+        "HowToGet": "Shop",
+        "Id": "0624",
+        "Season": 1,
+        "String": "The GOAT"
+    },
+    "0623": {
+        "HowToGet": "Shop",
+        "Id": "0623",
+        "Season": 1,
+        "String": "Pretty Good"
+    },
+    "0622": {
+        "HowToGet": "Shop",
+        "Id": "0622",
+        "Season": 1,
+        "String": "Arcade-Hopping"
+    },
+    "0602": {
+        "HowToGet": "Shop",
+        "Id": "0602",
+        "Season": 1,
+        "String": "Dynamite"
+    },
+    "0604": {
+        "HowToGet": "Shop",
+        "Id": "0604",
+        "Season": 1,
+        "String": "Overall"
+    },
+    "0605": {
+        "HowToGet": "Shop",
+        "Id": "0605",
+        "Season": 1,
+        "String": "Bargain-Binned"
+    },
+    "0607": {
+        "HowToGet": "Shop",
+        "Id": "0607",
+        "Season": 1,
+        "String": "Slim"
+    },
+    "0608": {
+        "HowToGet": "Shop",
+        "Id": "0608",
+        "Season": 1,
+        "String": "Out-of-Options"
+    },
+    "0609": {
+        "HowToGet": "Shop",
+        "Id": "0609",
+        "Season": 1,
+        "String": "Steampunky"
+    },
+    "0610": {
+        "HowToGet": "Shop",
+        "Id": "0610",
+        "Season": 1,
+        "String": "Numb"
+    },
+    "0612": {
+        "HowToGet": "Shop",
+        "Id": "0612",
+        "Season": 1,
+        "String": "Hiking"
+    },
+    "0613": {
+        "HowToGet": "Shop",
+        "Id": "0613",
+        "Season": 1,
+        "String": "Wandering"
+    },
+    "0615": {
+        "HowToGet": "Shop",
+        "Id": "0615",
+        "Season": 1,
+        "String": "Unyielding"
+    },
+    "0617": {
+        "HowToGet": "Shop",
+        "Id": "0617",
+        "Season": 1,
+        "String": "Economical"
+    },
+    "0618": {
+        "HowToGet": "Shop",
+        "Id": "0618",
+        "Season": 1,
+        "String": "Gothic"
+    },
+    "0620": {
+        "HowToGet": "Shop",
+        "Id": "0620",
+        "Season": 1,
+        "String": "High-Performing"
+    },
+    "0621": {
+        "HowToGet": "Shop",
+        "Id": "0621",
+        "Season": 1,
+        "String": "Praiseworthy"
+    },
+    "0643": {
+        "HowToGet": "Shop",
+        "Id": "0643",
+        "Season": 1,
+        "String": "Elegant"
+    },
+    "0644": {
+        "HowToGet": "Shop",
+        "Id": "0644",
+        "Season": 1,
+        "String": "Water-Breathing"
+    },
+    "0645": {
+        "HowToGet": "Shop",
+        "Id": "0645",
+        "Season": 1,
+        "String": "The Eternal"
+    },
+    "0646": {
+        "HowToGet": "Shop",
+        "Id": "0646",
+        "Season": 1,
+        "String": "Instant"
+    },
+    "0670": {
+        "HowToGet": "Shop",
+        "Id": "0670",
+        "Season": 1,
+        "String": "Winter-Ready"
+    },
+    "0671": {
+        "HowToGet": "Shop",
+        "Id": "0671",
+        "Season": 1,
+        "String": "Not-Streaming"
+    },
+    "0672": {
+        "HowToGet": "Shop",
+        "Id": "0672",
+        "Season": 1,
+        "String": "Daylit"
+    },
+    "0673": {
+        "HowToGet": "Shop",
+        "Id": "0673",
+        "Season": 1,
+        "String": "Dawning"
+    },
+    "0674": {
+        "HowToGet": "Shop",
+        "Id": "0674",
+        "Season": 1,
+        "String": "Realistic"
+    },
+    "0675": {
+        "HowToGet": "Shop",
+        "Id": "0675",
+        "Season": 1,
+        "String": "Lightly Snacking"
+    },
+    "0676": {
+        "HowToGet": "Shop",
+        "Id": "0676",
+        "Season": 1,
+        "String": "Late-Night"
+    },
+    "0677": {
+        "HowToGet": "Shop",
+        "Id": "0677",
+        "Season": 1,
+        "String": "Comfy-Cozy"
+    },
+    "0678": {
+        "HowToGet": "Shop",
+        "Id": "0678",
+        "Season": 1,
+        "String": "Fearful"
+    },
+    "0679": {
+        "HowToGet": "Shop",
+        "Id": "0679",
+        "Season": 1,
+        "String": "Winter-Breaking"
+    },
+    "0680": {
+        "HowToGet": "Shop",
+        "Id": "0680",
+        "Season": 1,
+        "String": "So-Called"
+    },
+    "0681": {
+        "HowToGet": "Shop",
+        "Id": "0681",
+        "Season": 1,
+        "String": "Intuitive"
+    },
+    "0682": {
+        "HowToGet": "Shop",
+        "Id": "0682",
+        "Season": 1,
+        "String": "A Complex"
+    },
+    "0683": {
+        "HowToGet": "Shop",
+        "Id": "0683",
+        "Season": 1,
+        "String": "The Original"
+    },
+    "0684": {
+        "HowToGet": "Shop",
+        "Id": "0684",
+        "Season": 1,
+        "String": "Second-Generation"
+    },
+    "0669": {
+        "HowToGet": "Shop",
+        "Id": "0669",
+        "Season": 1,
+        "String": "Summer-Fun"
+    },
+    "0600": {
+        "HowToGet": "Shop",
+        "Id": "0600",
+        "Season": 1,
+        "String": "Essential"
+    },
+    "0667": {
+        "HowToGet": "Shop",
+        "Id": "0667",
+        "Season": 1,
+        "String": "Crab-N-Go"
+    },
+    "0665": {
+        "HowToGet": "Shop",
+        "Id": "0665",
+        "Season": 1,
+        "String": "5-Year-Planning"
+    },
+    "0647": {
+        "HowToGet": "Shop",
+        "Id": "0647",
+        "Season": 1,
+        "String": "The Usual"
+    },
+    "0648": {
+        "HowToGet": "Shop",
+        "Id": "0648",
+        "Season": 1,
+        "String": "Ready-to-Go"
+    },
+    "0650": {
+        "HowToGet": "Shop",
+        "Id": "0650",
+        "Season": 1,
+        "String": "Lively"
+    },
+    "0651": {
+        "HowToGet": "Shop",
+        "Id": "0651",
+        "Season": 1,
+        "String": "Unstoppable"
+    },
+    "0652": {
+        "HowToGet": "Shop",
+        "Id": "0652",
+        "Season": 1,
+        "String": "Underground"
+    },
+    "0653": {
+        "HowToGet": "Shop",
+        "Id": "0653",
+        "Season": 1,
+        "String": "The Real Ultimate"
+    },
+    "0654": {
+        "HowToGet": "Shop",
+        "Id": "0654",
+        "Season": 1,
+        "String": "Overflowing"
+    },
+    "0655": {
+        "HowToGet": "Shop",
+        "Id": "0655",
+        "Season": 1,
+        "String": "Toon-Lovin'"
+    },
+    "0656": {
+        "HowToGet": "Shop",
+        "Id": "0656",
+        "Season": 1,
+        "String": "Splendid"
+    },
+    "0657": {
+        "HowToGet": "Shop",
+        "Id": "0657",
+        "Season": 1,
+        "String": "Warm-and-Cozy"
+    },
+    "0660": {
+        "HowToGet": "Shop",
+        "Id": "0660",
+        "Season": 1,
+        "String": "Amped-Up"
+    },
+    "0661": {
+        "HowToGet": "Shop",
+        "Id": "0661",
+        "Season": 1,
+        "String": "Outdoorsy"
+    },
+    "0662": {
+        "HowToGet": "Shop",
+        "Id": "0662",
+        "Season": 1,
+        "String": "Tech-Minded"
+    },
+    "0663": {
+        "HowToGet": "Shop",
+        "Id": "0663",
+        "Season": 1,
+        "String": "Lovable"
+    },
+    "0664": {
+        "HowToGet": "Shop",
+        "Id": "0664",
+        "Season": 1,
+        "String": "amiibo-Collecting"
+    },
+    "0666": {
+        "HowToGet": "Shop",
+        "Id": "0666",
+        "Season": 1,
+        "String": "Decade-Experienced"
+    },
+    "0398": {
+        "HowToGet": "Shop",
+        "Id": "0398",
+        "Season": 1,
+        "String": "Glimmering"
+    },
+    "0397": {
+        "HowToGet": "Shop",
+        "Id": "0397",
+        "Season": 1,
+        "String": "Fully Automatic"
+    },
+    "0395": {
+        "HowToGet": "Shop",
+        "Id": "0395",
+        "Season": 1,
+        "String": "Multiplying"
+    },
+    "0163": {
+        "HowToGet": "Shop",
+        "Id": "0163",
+        "Season": 0,
+        "String": "Pro"
+    },
+    "0164": {
+        "HowToGet": "Shop",
+        "Id": "0164",
+        "Season": 0,
+        "String": "Amateur"
+    },
+    "0165": {
+        "HowToGet": "Shop",
+        "Id": "0165",
+        "Season": 0,
+        "String": "Inkopolis Square's"
+    },
+    "0166": {
+        "HowToGet": "Shop",
+        "Id": "0166",
+        "Season": 0,
+        "String": "Inkopolis's Own"
+    },
+    "0167": {
+        "HowToGet": "Shop",
+        "Id": "0167",
+        "Season": 0,
+        "String": "Inkopolitan"
+    },
+    "0168": {
+        "HowToGet": "Shop",
+        "Id": "0168",
+        "Season": 0,
+        "String": "Feral"
+    },
+    "0162": {
+        "HowToGet": "Shop",
+        "Id": "0162",
+        "Season": 0,
+        "String": "Low-Key"
+    },
+    "0169": {
+        "HowToGet": "Shop",
+        "Id": "0169",
+        "Season": 0,
+        "String": "Downtown"
+    },
+    "0171": {
+        "HowToGet": "Shop",
+        "Id": "0171",
+        "Season": 0,
+        "String": "Greedy"
+    },
+    "0172": {
+        "HowToGet": "Shop",
+        "Id": "0172",
+        "Season": 0,
+        "String": "Trending"
+    },
+    "0173": {
+        "HowToGet": "Shop",
+        "Id": "0173",
+        "Season": 0,
+        "String": "Shortcut-Taking"
+    },
+    "0174": {
+        "HowToGet": "Shop",
+        "Id": "0174",
+        "Season": 0,
+        "String": "Fluid"
+    },
+    "0175": {
+        "HowToGet": "Shop",
+        "Id": "0175",
+        "Season": 0,
+        "String": "Optimistic"
+    },
+    "0177": {
+        "HowToGet": "Shop",
+        "Id": "0177",
+        "Season": 0,
+        "String": "Daydreamin'"
+    },
+    "0170": {
+        "HowToGet": "Shop",
+        "Id": "0170",
+        "Season": 0,
+        "String": "Country-Born"
+    },
+    "0161": {
+        "HowToGet": "Shop",
+        "Id": "0161",
+        "Season": 0,
+        "String": "Right-Handed"
+    },
+    "0160": {
+        "HowToGet": "Shop",
+        "Id": "0160",
+        "Season": 0,
+        "String": "Meditative"
+    },
+    "0159": {
+        "HowToGet": "Shop",
+        "Id": "0159",
+        "Season": 0,
+        "String": "Livestreaming"
+    },
+    "0143": {
+        "HowToGet": "Shop",
+        "Id": "0143",
+        "Season": 0,
+        "String": "Day-Seizing"
+    },
+    "0144": {
+        "HowToGet": "Shop",
+        "Id": "0144",
+        "Season": 0,
+        "String": "Fall-Themed"
+    },
+    "0145": {
+        "HowToGet": "Shop",
+        "Id": "0145",
+        "Season": 0,
+        "String": "Spring-Fresh"
+    },
+    "0146": {
+        "HowToGet": "Shop",
+        "Id": "0146",
+        "Season": 0,
+        "String": "Captivating"
+    },
+    "0147": {
+        "HowToGet": "Shop",
+        "Id": "0147",
+        "Season": 0,
+        "String": "The"
+    },
+    "0148": {
+        "HowToGet": "Shop",
+        "Id": "0148",
+        "Season": 0,
+        "String": "Low-Rolling"
+    },
+    "0149": {
+        "HowToGet": "Shop",
+        "Id": "0149",
+        "Season": 0,
+        "String": "High-Rolling"
+    },
+    "0150": {
+        "HowToGet": "Shop",
+        "Id": "0150",
+        "Season": 0,
+        "String": "Commanding"
+    },
+    "0151": {
+        "HowToGet": "Shop",
+        "Id": "0151",
+        "Season": 0,
+        "String": "Wannabe"
+    },
+    "0152": {
+        "HowToGet": "Shop",
+        "Id": "0152",
+        "Season": 0,
+        "String": "Deadeye"
+    },
+    "0154": {
+        "HowToGet": "Shop",
+        "Id": "0154",
+        "Season": 0,
+        "String": "Reckless"
+    },
+    "0155": {
+        "HowToGet": "Shop",
+        "Id": "0155",
+        "Season": 0,
+        "String": "Chilled-Out"
+    },
+    "0156": {
+        "HowToGet": "Shop",
+        "Id": "0156",
+        "Season": 0,
+        "String": "Silent"
+    },
+    "0157": {
+        "HowToGet": "Shop",
+        "Id": "0157",
+        "Season": 0,
+        "String": "Ambidextrous"
+    },
+    "0158": {
+        "HowToGet": "Shop",
+        "Id": "0158",
+        "Season": 0,
+        "String": "Stand-Up"
+    },
+    "0178": {
+        "HowToGet": "Shop",
+        "Id": "0178",
+        "Season": 0,
+        "String": "Clever"
+    },
+    "0142": {
+        "HowToGet": "Catalog",
+        "Id": "0142",
+        "Season": 0,
+        "String": "Sizzlin'"
+    },
+    "0179": {
+        "HowToGet": "Shop",
+        "Id": "0179",
+        "Season": 0,
+        "String": "Hungry, Hungry"
+    },
+    "0181": {
+        "HowToGet": "Shop",
+        "Id": "0181",
+        "Season": 0,
+        "String": "Slapdash"
+    },
+    "0205": {
+        "HowToGet": "Shop",
+        "Id": "0205",
+        "Season": 0,
+        "String": "Super-Scary"
+    },
+    "0206": {
+        "HowToGet": "Shop",
+        "Id": "0206",
+        "Season": 0,
+        "String": "Vacationing"
+    },
+    "0207": {
+        "HowToGet": "Shop",
+        "Id": "0207",
+        "Season": 0,
+        "String": "Nostalgic"
+    },
+    "0208": {
+        "HowToGet": "Shop",
+        "Id": "0208",
+        "Season": 0,
+        "String": "Homecoming"
+    },
+    "0209": {
+        "HowToGet": "Shop",
+        "Id": "0209",
+        "Season": 0,
+        "String": "Hard-Workin'"
+    },
+    "0210": {
+        "HowToGet": "Shop",
+        "Id": "0210",
+        "Season": 0,
+        "String": "Sweet-Toothed"
+    },
+    "0204": {
+        "HowToGet": "Shop",
+        "Id": "0204",
+        "Season": 0,
+        "String": "Assertive"
+    },
+    "0211": {
+        "HowToGet": "Shop",
+        "Id": "0211",
+        "Season": 0,
+        "String": "Seafaring"
+    },
+    "0213": {
+        "HowToGet": "Shop",
+        "Id": "0213",
+        "Season": 0,
+        "String": "Summer-Breaking"
+    },
+    "0214": {
+        "HowToGet": "Shop",
+        "Id": "0214",
+        "Season": 0,
+        "String": "Processed"
+    },
+    "0215": {
+        "HowToGet": "Shop",
+        "Id": "0215",
+        "Season": 0,
+        "String": "Not-So-Fresh"
+    },
+    "0216": {
+        "HowToGet": "Shop",
+        "Id": "0216",
+        "Season": 0,
+        "String": "Salty"
+    },
+    "0217": {
+        "HowToGet": "Shop",
+        "Id": "0217",
+        "Season": 0,
+        "String": "Destined"
+    },
+    "0219": {
+        "HowToGet": "Shop",
+        "Id": "0219",
+        "Season": 0,
+        "String": "Gullible"
+    },
+    "0212": {
+        "HowToGet": "Shop",
+        "Id": "0212",
+        "Season": 0,
+        "String": "Self-Taught"
+    },
+    "0203": {
+        "HowToGet": "Shop",
+        "Id": "0203",
+        "Season": 0,
+        "String": "Groundbreaking"
+    },
+    "0202": {
+        "HowToGet": "Shop",
+        "Id": "0202",
+        "Season": 0,
+        "String": "Lonely"
+    },
+    "0201": {
+        "HowToGet": "Shop",
+        "Id": "0201",
+        "Season": 0,
+        "String": "Stormy"
+    },
+    "0182": {
+        "HowToGet": "Shop",
+        "Id": "0182",
+        "Season": 0,
+        "String": "Half-Hearted"
+    },
+    "0183": {
+        "HowToGet": "Shop",
+        "Id": "0183",
+        "Season": 0,
+        "String": "Early-Bird"
+    },
+    "0184": {
+        "HowToGet": "Shop",
+        "Id": "0184",
+        "Season": 0,
+        "String": "Daring"
+    },
+    "0185": {
+        "HowToGet": "Shop",
+        "Id": "0185",
+        "Season": 0,
+        "String": "Hungry"
+    },
+    "0186": {
+        "HowToGet": "Shop",
+        "Id": "0186",
+        "Season": 0,
+        "String": "Athletic"
+    },
+    "0187": {
+        "HowToGet": "Shop",
+        "Id": "0187",
+        "Season": 0,
+        "String": "Early-Morning"
+    },
+    "0188": {
+        "HowToGet": "Shop",
+        "Id": "0188",
+        "Season": 0,
+        "String": "Inkslinging"
+    },
+    "0189": {
+        "HowToGet": "Shop",
+        "Id": "0189",
+        "Season": 0,
+        "String": "Up-and-at-'Em"
+    },
+    "0191": {
+        "HowToGet": "Shop",
+        "Id": "0191",
+        "Season": 0,
+        "String": "Deep-Sea"
+    },
+    "0193": {
+        "HowToGet": "Shop",
+        "Id": "0193",
+        "Season": 0,
+        "String": "Rise-and-Shine"
+    },
+    "0194": {
+        "HowToGet": "Shop",
+        "Id": "0194",
+        "Season": 0,
+        "String": "Beachy"
+    },
+    "0195": {
+        "HowToGet": "Shop",
+        "Id": "0195",
+        "Season": 0,
+        "String": "Freewheelin'"
+    },
+    "0196": {
+        "HowToGet": "Shop",
+        "Id": "0196",
+        "Season": 0,
+        "String": "Old-Fashioned"
+    },
+    "0197": {
+        "HowToGet": "Shop",
+        "Id": "0197",
+        "Season": 0,
+        "String": "World's Best"
+    },
+    "0200": {
+        "HowToGet": "Shop",
+        "Id": "0200",
+        "Season": 0,
+        "String": "National"
+    },
+    "0180": {
+        "HowToGet": "Shop",
+        "Id": "0180",
+        "Season": 0,
+        "String": "Competitive"
+    },
+    "0141": {
+        "HowToGet": "Shop",
+        "Id": "0141",
+        "Season": 0,
+        "String": "All-Natural"
+    },
+    "0140": {
+        "HowToGet": "Shop",
+        "Id": "0140",
+        "Season": 0,
+        "String": "Trendsetting"
+    },
+    "0139": {
+        "HowToGet": "Shop",
+        "Id": "0139",
+        "Season": 0,
+        "String": "Traditional"
+    },
+    "0045": {
+        "HowToGet": "Shop",
+        "Id": "0045",
+        "Season": 0,
+        "String": "Sockeye Station"
+    },
+    "0046": {
+        "HowToGet": "Shop",
+        "Id": "0046",
+        "Season": 1,
+        "String": "Gone Fission Hydroplant"
+    },
+    "0060": {
+        "HowToGet": "Shop",
+        "Id": "0060",
+        "Season": 0,
+        "String": "Regular Battle"
+    },
+    "0041": {
+        "HowToGet": "Shop",
+        "Id": "0041",
+        "Season": 2,
+        "String": "Marooner's Bay"
+    },
+    "0061": {
+        "HowToGet": "Shop",
+        "Id": "0061",
+        "Season": 0,
+        "String": "Anarchy Battle"
+    },
+    "0063": {
+        "HowToGet": "Shop",
+        "Id": "0063",
+        "Season": 0,
+        "String": "Story Mode"
+    },
+    "0064": {
+        "HowToGet": "Shop",
+        "Id": "0064",
+        "Season": 0,
+        "String": "Salmon Run"
+    },
+    "0065": {
+        "HowToGet": "Shop",
+        "Id": "0065",
+        "Season": 2,
+        "String": "X Battle"
+    },
+    "0067": {
+        "HowToGet": "Shop",
+        "Id": "0067",
+        "Season": 2,
+        "String": "Tricolor Battle"
+    },
+    "0100": {
+        "HowToGet": "Shop",
+        "Id": "0100",
+        "Season": 0,
+        "String": "Inkless"
+    },
+    "0062": {
+        "HowToGet": "Shop",
+        "Id": "0062",
+        "Season": 0,
+        "String": "Private Battle"
+    },
+    "0040": {
+        "HowToGet": "Shop",
+        "Id": "0040",
+        "Season": 1,
+        "String": "Spawning Grounds"
+    },
+    "0001": {
+        "HowToGet": "Shop",
+        "Id": "0001",
+        "Season": 0,
+        "String": "Eeltail Alley"
+    },
+    "0002": {
+        "HowToGet": "Shop",
+        "Id": "0002",
+        "Season": 0,
+        "String": "Hagglefish Market"
+    },
+    "0003": {
+        "HowToGet": "Shop",
+        "Id": "0003",
+        "Season": 0,
+        "String": "Undertow Spillway"
+    },
+    "0005": {
+        "HowToGet": "Shop",
+        "Id": "0005",
+        "Season": 0,
+        "String": "Mincemeat Metalworks"
+    },
+    "0006": {
+        "HowToGet": "Shop",
+        "Id": "0006",
+        "Season": 2,
+        "String": "Brinewater Springs"
+    },
+    "0007": {
+        "HowToGet": "Shop",
+        "Id": "0007",
+        "Season": 2,
+        "String": "Flounder Heights"
+    },
+    "0008": {
+        "HowToGet": "Shop",
+        "Id": "0008",
+        "Season": 0,
+        "String": "Hammerhead Bridge"
+    },
+    "0009": {
+        "HowToGet": "Shop",
+        "Id": "0009",
+        "Season": 1,
+        "String": "Museum d'Alfonsino"
+    },
+    "0010": {
+        "HowToGet": "Shop",
+        "Id": "0010",
+        "Season": 1,
+        "String": "Mahi-Mahi Resort"
+    },
+    "0011": {
+        "HowToGet": "Shop",
+        "Id": "0011",
+        "Season": 0,
+        "String": "Inkblot Art Academy"
+    },
+    "0012": {
+        "HowToGet": "Shop",
+        "Id": "0012",
+        "Season": 1,
+        "String": "Sturgeon Shipyard"
+    },
+    "0013": {
+        "HowToGet": "Shop",
+        "Id": "0013",
+        "Season": 1,
+        "String": "MakoMart"
+    },
+    "0014": {
+        "HowToGet": "Shop",
+        "Id": "0014",
+        "Season": 0,
+        "String": "Wahoo World"
+    },
+    "0101": {
+        "HowToGet": "Shop",
+        "Id": "0101",
+        "Season": 0,
+        "String": "Clocked-Out"
+    },
+    "0102": {
+        "HowToGet": "Shop",
+        "Id": "0102",
+        "Season": 0,
+        "String": "Attention-Seeking"
+    },
+    "0103": {
+        "HowToGet": "Shop",
+        "Id": "0103",
+        "Season": 0,
+        "String": "Southpaw"
+    },
+    "0104": {
+        "HowToGet": "Shop",
+        "Id": "0104",
+        "Season": 0,
+        "String": "Splatsville's"
+    },
+    "0124": {
+        "HowToGet": "Shop",
+        "Id": "0124",
+        "Season": 0,
+        "String": "Mid-Rush"
+    },
+    "0125": {
+        "HowToGet": "Shop",
+        "Id": "0125",
+        "Season": 0,
+        "String": "High-Tide"
+    },
+    "0126": {
+        "HowToGet": "Shop",
+        "Id": "0126",
+        "Season": 0,
+        "String": "Cohock-Chargin'"
+    },
+    "0127": {
+        "HowToGet": "Shop",
+        "Id": "0127",
+        "Season": 0,
+        "String": "Foggy"
+    },
+    "0128": {
+        "HowToGet": "Shop",
+        "Id": "0128",
+        "Season": 0,
+        "String": "Low-Tide"
+    },
+    "0129": {
+        "HowToGet": "Shop",
+        "Id": "0129",
+        "Season": 0,
+        "String": "Fall-Lovin'"
+    },
+    "0130": {
+        "HowToGet": "Shop",
+        "Id": "0130",
+        "Season": 0,
+        "String": "Spring-Lovin'"
+    },
+    "0131": {
+        "HowToGet": "Shop",
+        "Id": "0131",
+        "Season": 0,
+        "String": "Winter-Lovin'"
+    },
+    "0132": {
+        "HowToGet": "Shop",
+        "Id": "0132",
+        "Season": 0,
+        "String": "Summer-Lovin'"
+    },
+    "0133": {
+        "HowToGet": "Shop",
+        "Id": "0133",
+        "Season": 0,
+        "String": "Blissed-Out"
+    },
+    "0134": {
+        "HowToGet": "Shop",
+        "Id": "0134",
+        "Season": 0,
+        "String": "Trendy"
+    },
+    "0135": {
+        "HowToGet": "Shop",
+        "Id": "0135",
+        "Season": 0,
+        "String": "Sharp-Edged"
+    },
+    "0136": {
+        "HowToGet": "Shop",
+        "Id": "0136",
+        "Season": 0,
+        "String": "Stylin'"
+    },
+    "0137": {
+        "HowToGet": "Shop",
+        "Id": "0137",
+        "Season": 0,
+        "String": "Cool"
+    },
+    "0138": {
+        "HowToGet": "Shop",
+        "Id": "0138",
+        "Season": 0,
+        "String": "Basic"
+    },
+    "0123": {
+        "HowToGet": "Shop",
+        "Id": "0123",
+        "Season": 0,
+        "String": "Legendary"
+    },
+    "0220": {
+        "HowToGet": "Shop",
+        "Id": "0220",
+        "Season": 0,
+        "String": "Wiped-Out"
+    },
+    "0122": {
+        "HowToGet": "Shop",
+        "Id": "0122",
+        "Season": 0,
+        "String": "Profreshional"
+    },
+    "0120": {
+        "HowToGet": "Shop",
+        "Id": "0120",
+        "Season": 0,
+        "String": "Go-Gettin'"
+    },
+    "0105": {
+        "HowToGet": "Shop",
+        "Id": "0105",
+        "Season": 0,
+        "String": "Big-Money"
+    },
+    "0106": {
+        "HowToGet": "Shop",
+        "Id": "0106",
+        "Season": 0,
+        "String": "Normcore"
+    },
+    "0107": {
+        "HowToGet": "Shop",
+        "Id": "0107",
+        "Season": 0,
+        "String": "Faithful"
+    },
+    "0108": {
+        "HowToGet": "Shop",
+        "Id": "0108",
+        "Season": 0,
+        "String": "Defensive"
+    },
+    "0109": {
+        "HowToGet": "Shop",
+        "Id": "0109",
+        "Season": 0,
+        "String": "Champion"
+    },
+    "0110": {
+        "HowToGet": "Shop",
+        "Id": "0110",
+        "Season": 0,
+        "String": "Royal"
+    },
+    "0111": {
+        "HowToGet": "Shop",
+        "Id": "0111",
+        "Season": 0,
+        "String": "Ammo Knights"
+    },
+    "0112": {
+        "HowToGet": "Shop",
+        "Id": "0112",
+        "Season": 0,
+        "String": "Naut Couture"
+    },
+    "0113": {
+        "HowToGet": "Shop",
+        "Id": "0113",
+        "Season": 0,
+        "String": "Man-o'-Wardrobe"
+    },
+    "0114": {
+        "HowToGet": "Shop",
+        "Id": "0114",
+        "Season": 0,
+        "String": "Crush Station"
+    },
+    "0115": {
+        "HowToGet": "Shop",
+        "Id": "0115",
+        "Season": 0,
+        "String": "Hotlantis"
+    },
+    "0116": {
+        "HowToGet": "Shop",
+        "Id": "0116",
+        "Season": 1,
+        "String": "Tableturf Battling"
+    },
+    "0117": {
+        "HowToGet": "Shop",
+        "Id": "0117",
+        "Season": 0,
+        "String": "Research-Conducting"
+    },
+    "0118": {
+        "HowToGet": "Shop",
+        "Id": "0118",
+        "Season": 0,
+        "String": "Apprentice"
+    },
+    "0119": {
+        "HowToGet": "Shop",
+        "Id": "0119",
+        "Season": 0,
+        "String": "Part-Time"
+    },
+    "0121": {
+        "HowToGet": "Shop",
+        "Id": "0121",
+        "Season": 0,
+        "String": "Overachieving"
+    },
+    "0221": {
+        "HowToGet": "Shop",
+        "Id": "0221",
+        "Season": 0,
+        "String": "Rockin'"
+    },
+    "0222": {
+        "HowToGet": "Shop",
+        "Id": "0222",
+        "Season": 0,
+        "String": "Retro"
+    },
+    "0224": {
+        "HowToGet": "Shop",
+        "Id": "0224",
+        "Season": 0,
+        "String": "Careless"
+    },
+    "0329": {
+        "HowToGet": "Shop",
+        "Id": "0329",
+        "Season": 1,
+        "String": "Tear-Stained"
+    },
+    "0330": {
+        "HowToGet": "Shop",
+        "Id": "0330",
+        "Season": 1,
+        "String": "Traveling"
+    },
+    "0332": {
+        "HowToGet": "Shop",
+        "Id": "0332",
+        "Season": 1,
+        "String": "Next Year's"
+    },
+    "0334": {
+        "HowToGet": "Shop",
+        "Id": "0334",
+        "Season": 1,
+        "String": "Twilight"
+    },
+    "0335": {
+        "HowToGet": "Shop",
+        "Id": "0335",
+        "Season": 1,
+        "String": "The One and Only"
+    },
+    "0336": {
+        "HowToGet": "Shop",
+        "Id": "0336",
+        "Season": 1,
+        "String": "Beefy"
+    },
+    "0337": {
+        "HowToGet": "Shop",
+        "Id": "0337",
+        "Season": 1,
+        "String": "Sharp-Eyed"
+    },
+    "0339": {
+        "HowToGet": "Shop",
+        "Id": "0339",
+        "Season": 1,
+        "String": "Procrastinating"
+    },
+    "0340": {
+        "HowToGet": "Shop",
+        "Id": "0340",
+        "Season": 1,
+        "String": "Honorary"
+    },
+    "0341": {
+        "HowToGet": "Shop",
+        "Id": "0341",
+        "Season": 1,
+        "String": "Tasteless"
+    },
+    "0343": {
+        "HowToGet": "Shop",
+        "Id": "0343",
+        "Season": 1,
+        "String": "Merciless"
+    },
+    "0344": {
+        "HowToGet": "Shop",
+        "Id": "0344",
+        "Season": 1,
+        "String": "Infinite"
+    },
+    "0345": {
+        "HowToGet": "Shop",
+        "Id": "0345",
+        "Season": 1,
+        "String": "Sleepy"
+    },
+    "0338": {
+        "HowToGet": "Shop",
+        "Id": "0338",
+        "Season": 1,
+        "String": "Lost"
+    },
+    "0326": {
+        "HowToGet": "Shop",
+        "Id": "0326",
+        "Season": 1,
+        "String": "Instantaneous"
+    },
+    "0325": {
+        "HowToGet": "Shop",
+        "Id": "0325",
+        "Season": 1,
+        "String": "Ambiguous"
+    },
+    "0324": {
+        "HowToGet": "Shop",
+        "Id": "0324",
+        "Season": 1,
+        "String": "Fierce"
+    },
+    "0309": {
+        "HowToGet": "Shop",
+        "Id": "0309",
+        "Season": 1,
+        "String": "High-End"
+    },
+    "0310": {
+        "HowToGet": "Shop",
+        "Id": "0310",
+        "Season": 1,
+        "String": "Chatty"
+    },
+    "0311": {
+        "HowToGet": "Shop",
+        "Id": "0311",
+        "Season": 1,
+        "String": "Cash-Stacking"
+    },
+    "0312": {
+        "HowToGet": "Shop",
+        "Id": "0312",
+        "Season": 1,
+        "String": "Absentminded"
+    },
+    "0313": {
+        "HowToGet": "Shop",
+        "Id": "0313",
+        "Season": 1,
+        "String": "Beloved"
+    },
+    "0314": {
+        "HowToGet": "Shop",
+        "Id": "0314",
+        "Season": 1,
+        "String": "Windy"
+    },
+    "0315": {
+        "HowToGet": "Shop",
+        "Id": "0315",
+        "Season": 1,
+        "String": "Watery"
+    },
+    "0316": {
+        "HowToGet": "Shop",
+        "Id": "0316",
+        "Season": 1,
+        "String": "Sneaky"
+    },
+    "0317": {
+        "HowToGet": "Shop",
+        "Id": "0317",
+        "Season": 1,
+        "String": "Fiery"
+    },
+    "0318": {
+        "HowToGet": "Shop",
+        "Id": "0318",
+        "Season": 1,
+        "String": "Incandescent"
+    },
+    "0319": {
+        "HowToGet": "Shop",
+        "Id": "0319",
+        "Season": 1,
+        "String": "Young"
+    },
+    "0320": {
+        "HowToGet": "Shop",
+        "Id": "0320",
+        "Season": 1,
+        "String": "Organized"
+    },
+    "0321": {
+        "HowToGet": "Shop",
+        "Id": "0321",
+        "Season": 1,
+        "String": "Perfect"
+    },
+    "0322": {
+        "HowToGet": "Shop",
+        "Id": "0322",
+        "Season": 1,
+        "String": "Mysterious"
+    },
+    "0323": {
+        "HowToGet": "Shop",
+        "Id": "0323",
+        "Season": 1,
+        "String": "Central"
+    },
+    "0347": {
+        "HowToGet": "Shop",
+        "Id": "0347",
+        "Season": 1,
+        "String": "Time-Traveling"
+    },
+    "0348": {
+        "HowToGet": "Shop",
+        "Id": "0348",
+        "Season": 1,
+        "String": "Suave"
+    },
+    "0350": {
+        "HowToGet": "Shop",
+        "Id": "0350",
+        "Season": 1,
+        "String": "Howling"
+    },
+    "0352": {
+        "HowToGet": "Shop",
+        "Id": "0352",
+        "Season": 1,
+        "String": "Phantasmagoric"
+    },
+    "0376": {
+        "HowToGet": "Shop",
+        "Id": "0376",
+        "Season": 1,
+        "String": "Fleeing"
+    },
+    "0377": {
+        "HowToGet": "Shop",
+        "Id": "0377",
+        "Season": 1,
+        "String": "Drained"
+    },
+    "0378": {
+        "HowToGet": "Shop",
+        "Id": "0378",
+        "Season": 1,
+        "String": "Reincarnated"
+    },
+    "0379": {
+        "HowToGet": "Shop",
+        "Id": "0379",
+        "Season": 1,
+        "String": "Sun-Dried"
+    },
+    "0381": {
+        "HowToGet": "Shop",
+        "Id": "0381",
+        "Season": 1,
+        "String": "AKA"
+    },
+    "0382": {
+        "HowToGet": "Shop",
+        "Id": "0382",
+        "Season": 1,
+        "String": "Superhuman"
+    },
+    "0385": {
+        "HowToGet": "Shop",
+        "Id": "0385",
+        "Season": 1,
+        "String": "Subterranean"
+    },
+    "0386": {
+        "HowToGet": "Shop",
+        "Id": "0386",
+        "Season": 1,
+        "String": "Massive"
+    },
+    "0387": {
+        "HowToGet": "Shop",
+        "Id": "0387",
+        "Season": 1,
+        "String": "Terrestrial"
+    },
+    "0388": {
+        "HowToGet": "Shop",
+        "Id": "0388",
+        "Season": 1,
+        "String": "Important"
+    },
+    "0389": {
+        "HowToGet": "Shop",
+        "Id": "0389",
+        "Season": 1,
+        "String": "Jumbo"
+    },
+    "0390": {
+        "HowToGet": "Shop",
+        "Id": "0390",
+        "Season": 1,
+        "String": "Oceanic"
+    },
+    "0391": {
+        "HowToGet": "Shop",
+        "Id": "0391",
+        "Season": 1,
+        "String": "Big"
+    },
+    "0393": {
+        "HowToGet": "Shop",
+        "Id": "0393",
+        "Season": 1,
+        "String": "Easygoing "
+    },
+    "0394": {
+        "HowToGet": "Shop",
+        "Id": "0394",
+        "Season": 1,
+        "String": "Ancient"
+    },
+    "0375": {
+        "HowToGet": "Shop",
+        "Id": "0375",
+        "Season": 1,
+        "String": "Savvy"
+    },
+    "0308": {
+        "HowToGet": "Shop",
+        "Id": "0308",
+        "Season": 1,
+        "String": "Cheerful"
+    },
+    "0374": {
+        "HowToGet": "Shop",
+        "Id": "0374",
+        "Season": 1,
+        "String": "Unflappable"
+    },
+    "0371": {
+        "HowToGet": "Shop",
+        "Id": "0371",
+        "Season": 1,
+        "String": "Meaty"
+    },
+    "0353": {
+        "HowToGet": "Shop",
+        "Id": "0353",
+        "Season": 1,
+        "String": "Celestial"
+    },
+    "0354": {
+        "HowToGet": "Shop",
+        "Id": "0354",
+        "Season": 1,
+        "String": "Aged"
+    },
+    "0357": {
+        "HowToGet": "Shop",
+        "Id": "0357",
+        "Season": 1,
+        "String": "Lethal"
+    },
+    "0358": {
+        "HowToGet": "Shop",
+        "Id": "0358",
+        "Season": 1,
+        "String": "Secret"
+    },
+    "0359": {
+        "HowToGet": "Shop",
+        "Id": "0359",
+        "Season": 1,
+        "String": "Esoteric"
+    },
+    "0360": {
+        "HowToGet": "Shop",
+        "Id": "0360",
+        "Season": 1,
+        "String": "Exhausted"
+    },
+    "0361": {
+        "HowToGet": "Shop",
+        "Id": "0361",
+        "Season": 1,
+        "String": "Better-Than-You"
+    },
+    "0362": {
+        "HowToGet": "Shop",
+        "Id": "0362",
+        "Season": 1,
+        "String": "All-Purpose"
+    },
+    "0363": {
+        "HowToGet": "Shop",
+        "Id": "0363",
+        "Season": 1,
+        "String": "Gleaming"
+    },
+    "0364": {
+        "HowToGet": "Shop",
+        "Id": "0364",
+        "Season": 1,
+        "String": "Midday"
+    },
+    "0366": {
+        "HowToGet": "Shop",
+        "Id": "0366",
+        "Season": 1,
+        "String": "Unnoticed"
+    },
+    "0367": {
+        "HowToGet": "Shop",
+        "Id": "0367",
+        "Season": 1,
+        "String": "Unprecedented"
+    },
+    "0368": {
+        "HowToGet": "Shop",
+        "Id": "0368",
+        "Season": 1,
+        "String": "Tenacious"
+    },
+    "0369": {
+        "HowToGet": "Shop",
+        "Id": "0369",
+        "Season": 1,
+        "String": "Scorching"
+    },
+    "0370": {
+        "HowToGet": "Shop",
+        "Id": "0370",
+        "Season": 1,
+        "String": "Daytime"
+    },
+    "0372": {
+        "HowToGet": "Shop",
+        "Id": "0372",
+        "Season": 1,
+        "String": "Enigmatic"
+    },
+    "3301": {
+        "HowToGet": "Other",
+        "Id": "3301",
+        "Season": 2,
+        "String": "Saddle-Straddlin'"
+    },
+    "0307": {
+        "HowToGet": "Shop",
+        "Id": "0307",
+        "Season": 1,
+        "String": "Mild-Mannered"
+    },
+    "0305": {
+        "HowToGet": "Shop",
+        "Id": "0305",
+        "Season": 1,
+        "String": "Confident"
+    },
+    "0244": {
+        "HowToGet": "Shop",
+        "Id": "0244",
+        "Season": 0,
+        "String": "The Lone"
+    },
+    "0245": {
+        "HowToGet": "Shop",
+        "Id": "0245",
+        "Season": 0,
+        "String": "Sappy"
+    },
+    "0246": {
+        "HowToGet": "Shop",
+        "Id": "0246",
+        "Season": 0,
+        "String": "Dodge-Rolling"
+    },
+    "0247": {
+        "HowToGet": "Shop",
+        "Id": "0247",
+        "Season": 0,
+        "String": "Notable"
+    },
+    "0248": {
+        "HowToGet": "Shop",
+        "Id": "0248",
+        "Season": 0,
+        "String": "Explosive"
+    },
+    "0249": {
+        "HowToGet": "Shop",
+        "Id": "0249",
+        "Season": 0,
+        "String": "Shy"
+    },
+    "0243": {
+        "HowToGet": "Shop",
+        "Id": "0243",
+        "Season": 0,
+        "String": "Orderly"
+    },
+    "0250": {
+        "HowToGet": "Shop",
+        "Id": "0250",
+        "Season": 0,
+        "String": "Calamari"
+    },
+    "0253": {
+        "HowToGet": "Shop",
+        "Id": "0253",
+        "Season": 0,
+        "String": "Puffed-Up"
+    },
+    "0254": {
+        "HowToGet": "Shop",
+        "Id": "0254",
+        "Season": 0,
+        "String": "Fuzzy"
+    },
+    "0255": {
+        "HowToGet": "Shop",
+        "Id": "0255",
+        "Season": 0,
+        "String": "The Great"
+    },
+    "0256": {
+        "HowToGet": "Shop",
+        "Id": "0256",
+        "Season": 0,
+        "String": "Birthday-Celebratin'"
+    },
+    "0257": {
+        "HowToGet": "Shop",
+        "Id": "0257",
+        "Season": 0,
+        "String": "Whimsical"
+    },
+    "0258": {
+        "HowToGet": "Shop",
+        "Id": "0258",
+        "Season": 0,
+        "String": "Dangerous"
+    },
+    "0251": {
+        "HowToGet": "Shop",
+        "Id": "0251",
+        "Season": 0,
+        "String": "Fishy"
+    },
+    "0242": {
+        "HowToGet": "Shop",
+        "Id": "0242",
+        "Season": 0,
+        "String": "Scientific"
+    },
+    "0241": {
+        "HowToGet": "Shop",
+        "Id": "0241",
+        "Season": 0,
+        "String": "Fresh-Catch"
+    },
+    "0240": {
+        "HowToGet": "Shop",
+        "Id": "0240",
+        "Season": 0,
+        "String": "Swanky"
+    },
+    "0225": {
+        "HowToGet": "Shop",
+        "Id": "0225",
+        "Season": 0,
+        "String": "Avaricious"
+    },
+    "0226": {
+        "HowToGet": "Shop",
+        "Id": "0226",
+        "Season": 0,
+        "String": "Mischievous"
+    },
+    "0227": {
+        "HowToGet": "Shop",
+        "Id": "0227",
+        "Season": 0,
+        "String": "Soft"
+    },
+    "0228": {
+        "HowToGet": "Shop",
+        "Id": "0228",
+        "Season": 0,
+        "String": "Unrivaled"
+    },
+    "0229": {
+        "HowToGet": "Shop",
+        "Id": "0229",
+        "Season": 0,
+        "String": "Swole"
+    },
+    "0230": {
+        "HowToGet": "Shop",
+        "Id": "0230",
+        "Season": 0,
+        "String": "Hip"
+    },
+    "0231": {
+        "HowToGet": "Shop",
+        "Id": "0231",
+        "Season": 0,
+        "String": "Brand-New"
+    },
+    "0232": {
+        "HowToGet": "Shop",
+        "Id": "0232",
+        "Season": 0,
+        "String": "Full-Throttle"
+    },
+    "0233": {
+        "HowToGet": "Shop",
+        "Id": "0233",
+        "Season": 0,
+        "String": "Peppy"
+    },
+    "0234": {
+        "HowToGet": "Shop",
+        "Id": "0234",
+        "Season": 0,
+        "String": "Law-Breaking"
+    },
+    "0235": {
+        "HowToGet": "Shop",
+        "Id": "0235",
+        "Season": 0,
+        "String": "At-Work"
+    },
+    "0236": {
+        "HowToGet": "Shop",
+        "Id": "0236",
+        "Season": 0,
+        "String": "The First"
+    },
+    "0237": {
+        "HowToGet": "Shop",
+        "Id": "0237",
+        "Season": 0,
+        "String": "Promising"
+    },
+    "0238": {
+        "HowToGet": "Shop",
+        "Id": "0238",
+        "Season": 0,
+        "String": "Ink-Sloshing"
+    },
+    "0239": {
+        "HowToGet": "Shop",
+        "Id": "0239",
+        "Season": 0,
+        "String": "Wave-Riding"
+    },
+    "0259": {
+        "HowToGet": "Shop",
+        "Id": "0259",
+        "Season": 0,
+        "String": "Legit"
+    },
+    "0260": {
+        "HowToGet": "Shop",
+        "Id": "0260",
+        "Season": 0,
+        "String": "Dandy"
+    },
+    "0261": {
+        "HowToGet": "Shop",
+        "Id": "0261",
+        "Season": 0,
+        "String": "Ultra"
+    },
+    "0262": {
+        "HowToGet": "Shop",
+        "Id": "0262",
+        "Season": 0,
+        "String": "Floaty"
+    },
+    "0283": {
+        "HowToGet": "Shop",
+        "Id": "0283",
+        "Season": 1,
+        "String": "Leaping"
+    },
+    "0284": {
+        "HowToGet": "Shop",
+        "Id": "0284",
+        "Season": 1,
+        "String": "Running"
+    },
+    "0288": {
+        "HowToGet": "Shop",
+        "Id": "0288",
+        "Season": 1,
+        "String": "Protective"
+    },
+    "0289": {
+        "HowToGet": "Shop",
+        "Id": "0289",
+        "Season": 1,
+        "String": "Attacking"
+    },
+    "0290": {
+        "HowToGet": "Shop",
+        "Id": "0290",
+        "Season": 1,
+        "String": "Watchful"
+    },
+    "0291": {
+        "HowToGet": "Shop",
+        "Id": "0291",
+        "Season": 1,
+        "String": "Cooperative"
+    },
+    "0292": {
+        "HowToGet": "Shop",
+        "Id": "0292",
+        "Season": 1,
+        "String": "Hidden"
+    },
+    "0293": {
+        "HowToGet": "Shop",
+        "Id": "0293",
+        "Season": 1,
+        "String": "Submersible"
+    },
+    "0294": {
+        "HowToGet": "Shop",
+        "Id": "0294",
+        "Season": 1,
+        "String": "Brute"
+    },
+    "0295": {
+        "HowToGet": "Shop",
+        "Id": "0295",
+        "Season": 1,
+        "String": "Stealthy"
+    },
+    "0296": {
+        "HowToGet": "Shop",
+        "Id": "0296",
+        "Season": 1,
+        "String": "Everyday"
+    },
+    "0297": {
+        "HowToGet": "Shop",
+        "Id": "0297",
+        "Season": 1,
+        "String": "Gaming"
+    },
+    "0301": {
+        "HowToGet": "Shop",
+        "Id": "0301",
+        "Season": 1,
+        "String": "Logical"
+    },
+    "0303": {
+        "HowToGet": "Shop",
+        "Id": "0303",
+        "Season": 1,
+        "String": "Reliable"
+    },
+    "0304": {
+        "HowToGet": "Shop",
+        "Id": "0304",
+        "Season": 1,
+        "String": "Gentle"
+    },
+    "0282": {
+        "HowToGet": "Shop",
+        "Id": "0282",
+        "Season": 1,
+        "String": "Headstrong"
+    },
+    "0306": {
+        "HowToGet": "Shop",
+        "Id": "0306",
+        "Season": 1,
+        "String": "Serious"
+    },
+    "0281": {
+        "HowToGet": "Shop",
+        "Id": "0281",
+        "Season": 1,
+        "String": "Spineless"
+    },
+    "0278": {
+        "HowToGet": "Shop",
+        "Id": "0278",
+        "Season": 1,
+        "String": "Studious"
+    },
+    "0263": {
+        "HowToGet": "Shop",
+        "Id": "0263",
+        "Season": 0,
+        "String": "Indoor"
+    },
+    "0264": {
+        "HowToGet": "Shop",
+        "Id": "0264",
+        "Season": 0,
+        "String": "Ink-Covered"
+    },
+    "0265": {
+        "HowToGet": "Shop",
+        "Id": "0265",
+        "Season": 0,
+        "String": "Ink-Dripping"
+    },
+    "0266": {
+        "HowToGet": "Shop",
+        "Id": "0266",
+        "Season": 0,
+        "String": "Fresh"
+    },
+    "0267": {
+        "HowToGet": "Shop",
+        "Id": "0267",
+        "Season": 0,
+        "String": "Wicked-Fresh"
+    },
+    "0268": {
+        "HowToGet": "Shop",
+        "Id": "0268",
+        "Season": 0,
+        "String": "Stale"
+    },
+    "0269": {
+        "HowToGet": "Shop",
+        "Id": "0269",
+        "Season": 0,
+        "String": "A Simple"
+    },
+    "0270": {
+        "HowToGet": "Shop",
+        "Id": "0270",
+        "Season": 0,
+        "String": "8-Tentacled"
+    },
+    "0271": {
+        "HowToGet": "Shop",
+        "Id": "0271",
+        "Season": 0,
+        "String": "10-Tentacled"
+    },
+    "0272": {
+        "HowToGet": "Shop",
+        "Id": "0272",
+        "Season": 1,
+        "String": "Midwinter"
+    },
+    "0273": {
+        "HowToGet": "Shop",
+        "Id": "0273",
+        "Season": 1,
+        "String": "Mind-Blowing"
+    },
+    "0274": {
+        "HowToGet": "Shop",
+        "Id": "0274",
+        "Season": 1,
+        "String": "Lifelong"
+    },
+    "0275": {
+        "HowToGet": "Shop",
+        "Id": "0275",
+        "Season": 1,
+        "String": "Top-Ranked"
+    },
+    "0276": {
+        "HowToGet": "Shop",
+        "Id": "0276",
+        "Season": 1,
+        "String": "Actual"
+    },
+    "0277": {
+        "HowToGet": "Catalog",
+        "Id": "0277",
+        "Season": 1,
+        "String": "Growing"
+    },
+    "0279": {
+        "HowToGet": "Shop",
+        "Id": "0279",
+        "Season": 1,
+        "String": "Overpowering"
+    }
+}

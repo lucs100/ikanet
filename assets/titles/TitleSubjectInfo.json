@@ -915,7 +915,7 @@
         "HowToGet": "Shop",
         "Id": "0727",
         "Season": 1,
-        "String": "B-Boy"
+        "String": "B-Boy // B-Girl"
     },
     "0728": {
         "HowToGet": "Shop",
@@ -927,7 +927,7 @@
         "HowToGet": "Shop",
         "Id": "0729",
         "Season": 1,
-        "String": "Duke"
+        "String": "Duke // Duchess"
     },
     "0722": {
         "HowToGet": "Shop",
@@ -1071,37 +1071,37 @@
         "HowToGet": "Shop",
         "Id": "3006",
         "Season": 0,
-        "String": "Father"
+        "String": "Father // Mother"
     },
     "3007": {
         "HowToGet": "Shop",
         "Id": "3007",
         "Season": 0,
-        "String": "Dad"
+        "String": "Dad // Mom"
     },
     "3008": {
         "HowToGet": "Shop",
         "Id": "3008",
         "Season": 0,
-        "String": "Son"
+        "String": "Son // Daughter"
     },
     "3009": {
         "HowToGet": "Shop",
         "Id": "3009",
         "Season": 0,
-        "String": "Big Brother"
+        "String": "Big Brother // Big Sister"
     },
     "3010": {
         "HowToGet": "Shop",
         "Id": "3010",
         "Season": 0,
-        "String": "Little Brother"
+        "String": "Little Brother // Little Sister"
     },
     "3011": {
         "HowToGet": "Shop",
         "Id": "3011",
         "Season": 0,
-        "String": "Grandpa"
+        "String": "Grandpa // Grandma"
     },
     "3005": {
         "HowToGet": "Shop",
@@ -1155,13 +1155,13 @@
         "HowToGet": "Shop",
         "Id": "3013",
         "Season": 0,
-        "String": "Uncle"
+        "String": "Uncle // Aunt"
     },
     "3004": {
         "HowToGet": "Shop",
         "Id": "3004",
         "Season": 0,
-        "String": "Boy"
+        "String": "Boy // Girl"
     },
     "3003": {
         "HowToGet": "Shop",
@@ -2973,7 +2973,7 @@
         "HowToGet": "Shop",
         "Id": "0375",
         "Season": 1,
-        "String": "King"
+        "String": "King // Queen"
     },
     "0323": {
         "HowToGet": "Shop",
@@ -3183,7 +3183,7 @@
         "HowToGet": "Shop",
         "Id": "0376",
         "Season": 1,
-        "String": "Bro"
+        "String": "Bro // Sis"
     },
     "0338": {
         "HowToGet": "Shop",
@@ -3261,25 +3261,25 @@
         "HowToGet": "Shop",
         "Id": "0371",
         "Season": 1,
-        "String": "Prince"
+        "String": "Prince // Princess"
     },
     "0372": {
         "HowToGet": "Shop",
         "Id": "0372",
         "Season": 1,
-        "String": "Brother"
+        "String": "Brother // Sister"
     },
     "0373": {
         "HowToGet": "Shop",
         "Id": "0373",
         "Season": 1,
-        "String": "City Boy"
+        "String": "City Boy // City Girl"
     },
     "0374": {
         "HowToGet": "Shop",
         "Id": "0374",
         "Season": 1,
-        "String": "Groom"
+        "String": "Groom // Bride"
     },
     "0367": {
         "HowToGet": "Shop",

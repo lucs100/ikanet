@@ -1,0 +1,26 @@
+[
+    {
+        "HowToGet": "Shop",
+        "Id": "0300",
+        "Season": 0,
+        "String": "Callie Fan"
+    },
+    {
+        "HowToGet": "Shop",
+        "Id": "0313",
+        "Season": 0,
+        "String": "Marie Fan"
+    },
+    {
+        "HowToGet": "Shop",
+        "Id": "0306",
+        "Season": 0,
+        "String": "Squid Sisters Fan"
+    },
+    {
+        "HowToGet": "Shop",
+        "Id": "0181",
+        "Season": 0,
+        "String": "Chirpy Chips Fan"
+    }
+]

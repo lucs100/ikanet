@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="https://unpkg.com/bootstrap-table@1.21.2/dist/bootstrap-table.min.css">
     <link rel="stylesheet" type="text/css" href="index.css">
     <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
-    </head>
+</head>
 
 <body>
     <!--navbar-->
@@ -24,13 +24,13 @@
 
     <div class="container">
         <h1> Table Test </h1>
-        <table id="table" data-toggle="table" data-url="assets\test\TestTitles.json">
+        <table id="table" data-toggle="table" data-url="assets\test\TestTitles.json" data-pagination="true" data-show-pagination-switch="true" data-search="true" data-show-columns="true" data-show-button-icons="true">
             <thead>
                 <tr>
-                    <th data-field="HowToGet">Source</th>
-                    <th data-field="Id">ID</th>
-                    <th data-field="Season">Season</th>
-                    <th data-field="String">Title</th>
+                    <th data-field="HowToGet" data-sortable="true">Source</th>
+                    <th data-field="Id" data-sortable="true">ID</th>
+                    <th data-field="Season" data-sortable="true">Season</th>
+                    <th data-field="String" data-sortable="true">Title</th>
                 </tr>
             </thead>
         </table>

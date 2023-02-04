@@ -9,3 +9,13 @@
 .table-container {
     margin-top: -2.5em
 }
+
+#footer {
+    position: fixed;
+    bottom: 0;
+    padding-right: 0.125em;
+    width: 100%;
+    height: 1.75em;   /* Height of the footer */
+    font-size: .9em;
+    text-align: right;
+ }

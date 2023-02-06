@@ -27,9 +27,11 @@
     </div>
     
     <div class="container table-container">
-        <table id="table" data-toggle="table" data-url="assets\test\TestTitles.json" data-pagination="true" data-show-pagination-switch="true" data-search="true" data-show-columns="true" data-show-button-icons="true">
+        <table id="table" data-toggle="table" data-url="assets\test\TestTitles.json" data-pagination="true" data-show-pagination-switch="true" data-search="true" data-show-columns="true" data-show-button-icons="true" >
             <thead>
                 <tr>
+                    <th data-field="Want" data-sortable="true" data-checkbox="true" data-formatter="testFormatter1">HaveText</th> <!--needs a title AND a placeholder dataField that can save/load state-->
+                    <!--not quite sure how to add a second, independent checkbox here?-->
                     <th data-field="HowToGet" data-sortable="true">Source</th>
                     <th data-field="Id" data-sortable="true">ID</th>
                     <th data-field="Season" data-sortable="true">Season</th>
@@ -49,6 +51,13 @@
         $(function(){
             $("#footer-script").load("footer.html")
         });
+    </script>
+
+    
+    <script>
+    function testFormatter1(value, row, index) {
+        //add formatting here - not quite sure how to set title
+    }    
     </script>
     
     <script src="https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js"></script>

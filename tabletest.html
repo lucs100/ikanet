@@ -22,8 +22,8 @@
         <table id="table" data-toggle="table" data-url="assets\test\TestTitles.json" data-pagination="true" data-show-pagination-switch="true" data-search="true" data-show-columns="true" data-show-button-icons="true" data-checkbox-header="false">
             <thead>
                 <tr>
-                    <th data-field="Want" data-sortable="true" data-checkbox="true" data-show-select-title="true">Want</th> <!--needs a placeholder dataField that can save/load state-->
-                    <!--not quite sure how to add a second, independent checkbox here?-->
+                    <th data-field="Have" data-sortable="true" data-show-select-title="true" data-formatter="HaveFormatter">Have</th> <!--needs a placeholder dataField that can save/load state-->
+                    <th data-field="Want" data-sortable="true" data-show-select-title="true" data-formatter="WantFormatter">Want</th> 
                     <th data-field="HowToGet" data-sortable="true">Source</th>
                     <th data-field="Id" data-sortable="true">ID</th>
                     <th data-field="Season" data-sortable="true">Season</th>
@@ -38,6 +38,14 @@
     <div id="footer-script"></div>
 
     <script>
+        function HaveFormatter(value) {
+            return '<input type="checkbox">'
+        } //should this get/set data later?
+
+        function WantFormatter(value) {
+            return '<input type="checkbox">'
+        }
+
         $(function(){
             $("#nav-script").load("navbar.html")
         });

@@ -12,16 +12,7 @@
 
 <body>
     <!--navbar-->
-    <div id="nav-script">
-
-    </div>
-
-    <script>
-        $(function(){
-            $("#nav-script").load("navbar.html")
-        });
-    </script>
-    
+    <div id="nav-script"></div>    
 
     <div class="container">
         <h1 class="text-center main-title">acknowledgements</h1>
@@ -31,12 +22,13 @@
     
     
     <!--footer-->
-    <div id="footer-script">
-
-    </div>
-
+    <div id="footer-script"></div>
 
     <script>
+        $(function(){
+            $("#nav-script").load("navbar.html")
+        });
+
         $(function(){
             $("#footer-script").load("footer.html")
         });

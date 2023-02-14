@@ -38,12 +38,16 @@
     <div id="footer-script"></div>
 
     <script>
-        function HaveFormatter(value) {
-            return '<input type="checkbox">'
+        function HaveFormatter(value, rowData, index) {
+            checkboxID = rowData.Id + "h"
+            console.log(checkboxID)
+            return '<input type="checkbox" id="checkboxID">'
         } //should this get/set data later?
 
-        function WantFormatter(value) {
-            return '<input type="checkbox">'
+        function WantFormatter(value, rowData, index) {
+            checkboxID = rowData.Id + "w"
+            console.log(checkboxID)
+            return '<input type="checkbox" id="checkboxID">'
         }
 
         $(function(){

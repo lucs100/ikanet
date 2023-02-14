@@ -1,13 +1,13 @@
 .main-title {
-    margin-top: 10px;
+    margin-top: 0.4em;
 }
 
 .title-container {
     margin-top: 0.5em
 }
 
-.table-container {
-    margin-top: -2.5em
+.drop-title {
+    margin-bottom: -1em;
 }
 
 #footer {

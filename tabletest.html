@@ -13,13 +13,13 @@
 <body>
     <!--navbar-->
     <div id="nav-script"></div>
-
+    
     <div class="container title-container drop-title">
         <h1> Table Test </h1>
     </div>
     
     <div class="container table-container">
-        <table id="table" data-toggle="table" data-url="assets\test\TestTitles.json" data-pagination="true" data-show-pagination-switch="true" data-search="true" data-show-columns="true" data-show-button-icons="true" data-checkbox-header="false">
+        <table id="test-table" data-url="assets/test/TestTitles.json" data-toggle="table" data-pagination="true" data-show-pagination-switch="true" data-search="true" data-show-columns="true" data-show-button-icons="true" data-checkbox-header="false">
             <thead>
                 <tr>
                     <th data-field="Have" data-sortable="true" data-show-select-title="true" data-formatter="HaveFormatter" data-width-unit="rem" data-width="1rem">Have</th> <!--needs a placeholder dataField that can save/load state-->
@@ -32,41 +32,11 @@
             </thead>
         </table>
     </div>
-
     
     <!--footer-->
     <div id="footer-script"></div>
-
-    <script>
-        let haveBoxArray = [];
-        let wantBoxArray = [];
-
-        function HaveFormatter(value, rowData, index) {
-            checkboxID = rowData.Id + "h"
-            haveBoxArray[haveBoxArray.length] = checkboxID;
-            console.log(checkboxID)
-            return '<input type="checkbox" id="checkboxID">'
-        } //should this get/set data later?
-
-        function WantFormatter(value, rowData, index) {
-            checkboxID = rowData.Id + "w"
-            wantBoxArray[wantBoxArray.length] = checkboxID;
-            console.log(checkboxID)
-            return '<input type="checkbox" id="checkboxID">'
-        }
-
-        console.log("haveBoxArray = " + haveBoxArray);
-        console.log("wantBoxArray = " + wantBoxArray);
-        //needs to wait for page load - console.logs fire before formatters fire. arrays are still probably being populated, though.
-
-        $(function(){
-            $("#nav-script").load("navbar.html")
-        });
-
-        $(function(){
-            $("#footer-script").load("footer.html")
-        });
-    </script>
+    
+    <script src="/js/tabletest.js"></script>
     
     <script src="https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>

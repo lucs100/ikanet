@@ -11,7 +11,7 @@ function HaveFormatter(value, rowData, index) {
         haveBoxArray[haveBoxArray.length] = checkboxID;
     }
     //console.log(checkboxID)
-    return '<input type="checkbox" id="checkboxID">'
+    return '<input type="checkbox" class="haveBox" id="' + checkboxID + '">';
 } //should this get/set data later?
 
 function WantFormatter(value, rowData, index) {
@@ -20,7 +20,7 @@ function WantFormatter(value, rowData, index) {
         wantBoxArray[wantBoxArray.length] = checkboxID;
     }
     //console.log(checkboxID)
-    return '<input type="checkbox" id="checkboxID">'
+    return '<input type="checkbox" class="wantBox" id="' + checkboxID + '">';
 }
 
 $(function() {
@@ -35,12 +35,13 @@ $(function() {
     }
 
     fetchTestTableData();
-    $(function() {
-        $('#test-table').bootstrapTable({
+
+    //$(function() {
+        //$('#test-table').bootstrapTable({
             //data: testTableData
-        })
-    })
-    //needs to wait for page load - console.logs fire before formatters fire. arrays are still probably being populated, though.
+            //data won't load from this file, disabled for now
+        //})
+    //})
     
     $(function(){
         $("#nav-script").load("navbar.html")
@@ -54,8 +55,8 @@ $(function() {
 
     $table.on('load-success.bs.table', function () {
         console.log("loaded!");
-        console.log("haveBoxArray = " + haveBoxArray);
-        console.log("wantBoxArray = " + wantBoxArray);
+        //console.log("haveBoxArray = " + haveBoxArray);
+        //console.log("wantBoxArray = " + wantBoxArray);
     });
     
 });

@@ -57,6 +57,19 @@ $(function() {
         console.log("loaded!");
         //console.log("haveBoxArray = " + haveBoxArray);
         //console.log("wantBoxArray = " + wantBoxArray);
+
+        $('.haveBox, .wantBox').click(function() {
+            const $haveCheckboxEvent = $(this);
+            console.log($haveCheckboxEvent);
+            if($haveCheckboxEvent.is(":checked")) {
+                console.log(this.id + " is checked!");
+            }
+            else if(!$haveCheckboxEvent.is(":checked")) {
+                console.log(this.id + " is unchecked!");
+            }
+        })
+        //resets on sort!!!!
+
     });
-    
+
 });

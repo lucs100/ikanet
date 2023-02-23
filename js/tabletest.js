@@ -90,10 +90,8 @@ $(function() {
         //console.log("haveBoxArray = " + haveBoxArray);
         //console.log("wantBoxArray = " + wantBoxArray);
 
-        $('.haveBox, .wantBox').click(function() {
-            console.log("test");
+        $(document).on("click", ".haveBox, .wantBox", function(event) {
             const $haveCheckboxEvent = $(this);
-            console.log($haveCheckboxEvent);
             if($haveCheckboxEvent.is(":checked")) {
                 console.log(this.id + " is checked!");
             }

@@ -1,0 +1,27 @@
+{
+  "name": "ikanet",
+  "version": "1.0.0",
+  "description": "Wishlist service for Splatoon 3.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucs100/ikanet.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucs100/ikanet/issues"
+  },
+  "homepage": "https://github.com/lucs100/ikanet#readme",
+  "dependencies": {
+    "firebase": "^9.17.1"
+  },
+  "devDependencies": {
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
+  }
+}

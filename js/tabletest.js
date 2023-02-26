@@ -1,35 +1,24 @@
 
+import * as lf from "./functions/loadFrame.js";
+import * as tableData from "./tableTestFormatters.js"
+
 //must be outside of jquery function, as the jquery waits for the page to load, so these will not be initialized
-let haveBoxArray = [];
-let wantBoxArray = [];
 
 console.log("not loaded");
 
-function haveFormatter(value, rowData, index) {
-    var checked = value ? 'checked' : ''
-    checkboxID = rowData.Id + "h"
-    if (!haveBoxArray.includes(checkboxID)){
-        haveBoxArray[haveBoxArray.length] = checkboxID;
-    }
-    //console.log(checkboxID)
-    return '<input type="checkbox"' + checked + ' class="haveBox" id="' + checkboxID + '">';
-} //should this get/set data later?
+// need to populate these once the dom is loaded, since i cant in tabletestformatters
 
-function wantFormatter(value, rowData, index) {
-    var checked = value ? 'checked' : ''
-    checkboxID = rowData.Id + "w"
-    if (!wantBoxArray.includes(checkboxID)){
-        wantBoxArray[wantBoxArray.length] = checkboxID;
-    }
-    //console.log(checkboxID)
-    return '<input type="checkbox"' + checked + ' class="wantBox" id="' + checkboxID + '">';
-}
-
+let haveBoxArray = [];
+let wantBoxArray = [];
 
 $(function() {
     //all scripts must be inside this
 
     var $table = $('#test-table')
+
+    /*
+    // Removed as this breaks importing the code as a type="module" - strict mode has window undefined. ChatGPT could not fix.
+    // Since sorting is removed (see https://github.com/wenzhixin/bootstrap-table/issues/6654), not a big deal. 
 
     window.haveEvents = {
         'change :checkbox': function (e, value, row, index) {
@@ -50,6 +39,8 @@ $(function() {
             })
             }
     }
+
+    */
 
     /*
 
@@ -74,14 +65,8 @@ $(function() {
     })
 
     */
-    
-    $(function(){
-        $("#nav-script").load("navbar.html")
-    });
-    
-    $(function(){
-        $("#footer-script").load("footer.html")
-    });
+
+    lf.loadBookends();
     
     var $table = $('#test-table').bootstrapTable();
 

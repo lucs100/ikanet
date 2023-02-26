@@ -24,8 +24,8 @@
                 <tr>
                     <!-- All cols need data-sortable="true" - they are bugged and cannot be sorted without issues -->
                     <!-- See https://github.com/wenzhixin/bootstrap-table/issues/6654 -->
-                    <th data-field="have" data-show-select-title="true" data-formatter="haveFormatter" data-width-unit="rem" data-width="1rem" data-events="haveEvents" class="text-center">Have</th> <!--needs a placeholder dataField that can save/load state-->
-                    <th data-field="want" data-show-select-title="true" data-formatter="wantFormatter" data-width-unit="rem" data-width="1rem" data-events="wantEvents" class="text-center">Want</th>
+                    <th data-field="have" data-show-select-title="true" data-formatter="haveFormatter" data-width-unit="rem" data-width="1rem" class="text-center">Have</th> <!--needs a placeholder dataField that can save/load state-->
+                    <th data-field="want" data-show-select-title="true" data-formatter="wantFormatter" data-width-unit="rem" data-width="1rem" class="text-center">Want</th> <!--needs data-events="haveEvents" for sort-clear functionality-->
                     <th data-field="HowToGet">Source</th>
                     <th data-field="Id">ID</th>
                     <th data-field="Season">Season</th>
@@ -38,7 +38,8 @@
     <!--footer-->
     <div id="footer-script"></div>
     
-    <script src="/js/tabletest.js"></script>
+    <script src="/js/tabletest.js" type="module"></script>
+    <script src="/js/tableTestFormatters.js"></script>
 
     <script>
     </script>

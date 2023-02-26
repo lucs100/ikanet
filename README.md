@@ -1,4 +1,4 @@
 # ikanet
 Wishlist service for Splatoon 3.
 
-Live at https://lucs100.github.io/ikanet/ :)
+Live at [ikanet.ink](https://ikanet.ink/) :)

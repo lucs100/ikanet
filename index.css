@@ -10,7 +10,13 @@
     margin-bottom: -1em;
 }
 
-#grean {
+.firebase-test-form {
+    margin-left: 6em;
+    margin-right: 6em;
+    margin-top: 2em;
+}
+
+.grean {
     color:rgb(190, 236, 34);
 }
 

@@ -1,5 +1,5 @@
 
-import * as lf from "./functions/loadFrame.js";
+import { loadBookends } from "./functions/loadFrame.js";
 import * as tableData from "./tableTestFormatters.js"
 
 //must be outside of jquery function, as the jquery waits for the page to load, so these will not be initialized
@@ -66,7 +66,7 @@ $(function() {
 
     */
 
-    lf.loadBookends();
+    loadBookends();
     
     var $table = $('#test-table').bootstrapTable();
 

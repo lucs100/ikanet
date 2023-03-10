@@ -18,19 +18,24 @@
         <h1> Local Storage Test </h1>
     </div>
     
-    <form class="local-storage-test-form">
+    <div class="local-storage-test-form">
         <div class="form-group">
             <label for="local-storage-test-text">Text:</label>
             <input type="text" class="form-control" id="local-storage-test-text">
         </div>
-        <button type="submit" id="local-storage-test-submit" class="btn btn-primary">Submit</button>
+        <button id="local-storage-test-submit" class="btn btn-primary">Submit</button>
         <p class="local-storage-test-output" id="output"></p>
-    </form>
+    </div>
+    
+    <div class="local-storage-test-form">
+        <button id="local-storage-test-recall" class="btn btn-primary">Recall</button>
+        <div class="local-storage-test-output" id="output"></div>
+    </div>
     
     <!--footer-->
     <div id="footer-script"></div>
     
-    <script src="/js/local-storagetest.js" type="module"></script>
+    <script src="js/localstorage.js" type="module"></script>
 
     <script>
     </script>
